@@ -1,5 +1,6 @@
 <H1>Elie Daher</H1>
 
 <H2>Intérêts dans le multimedia</H2>
-A
+
+Mes intérêts pour le multimédia sont les parties les plus techniques, par exemple la programmation et le cours d'audio que j'ai eu au premier semestre étaient très intéressants donc j'attends avec impatience le prochain car il faut être créatif et servir un peu de son imagination. 
 
