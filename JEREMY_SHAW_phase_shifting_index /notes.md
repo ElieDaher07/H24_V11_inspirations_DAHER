@@ -27,7 +27,7 @@ Jeremy Shaw
 Contemplative
 
 ## Mise en espace
-Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, dotée de 7 écrans en forme de M. Le sol est en tapis, on pouvait s'asseoir sur des bancs faitent en tapis. La salle est sombre avec la seule lumière provenant des écrans et des plafonniers installés pour cette exposition qui s'éclaireraient vers la fin.
+Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, dotée de 7 écrans. Le sol est en tapis, on pouvait s'asseoir sur des bancs faitent en tapis. La salle est sombre avec la seule lumière provenant des écrans et des plafonniers installés pour cette exposition qui s'éclaireraient vers la fin.
 
 ## Composantes et techniques
 Installation vidéographique à sept canaux, couleur et noir et blanc, avec son multi-canaux et des lumières, d'une durée de 35 minutes et 17 secondes.
