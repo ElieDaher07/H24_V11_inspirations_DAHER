@@ -1,1 +1,1 @@
-Ce dossier contient tous les images prisent pendant l'exposition
+Ce dossier contient toutes les images prisent pendant l'exposition
