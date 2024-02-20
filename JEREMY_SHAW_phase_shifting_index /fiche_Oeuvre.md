@@ -1,2 +1,2 @@
-# Phase Shifting Index Par Jeremy Shaw
+# Exposition par Jeremy Shaw: Phase Shifting Index
 
