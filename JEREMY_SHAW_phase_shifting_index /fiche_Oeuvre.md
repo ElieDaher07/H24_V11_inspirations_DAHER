@@ -26,7 +26,7 @@ Créer au Centre Pompidou à Paris, France 2020
 <img width="680" src="media/description.png">
 <img width="600" src="media/cartel.JPG">
 
-<h2>Installation <strong>Immersive </strong> </h2>
+<h2>Installation Immersive </h2>
 
 
 
