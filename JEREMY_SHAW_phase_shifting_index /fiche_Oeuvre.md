@@ -59,7 +59,7 @@ En rentrant dans l'immeuble, un guide nous présente l'artiste et résume l'oeuv
 En rentrant dans la sale de l'oeuvre, on peut s'asseoir sur un estrade fait en tapis ou sur les bancs aussi faitent en tapis devant.
 Ensuite, les 7 écrans commencent tous à diffuser des vidéos de personnes effectuant des danses ou des étirements assez étranges.
 Chaque écran montrait quelque chose totalement différent des autres. 
-<img width="300" src="media/ecran_phase_01.JPG">
+<img width="600" src="media/ecran_phase_01.JPG">
 
 
 
