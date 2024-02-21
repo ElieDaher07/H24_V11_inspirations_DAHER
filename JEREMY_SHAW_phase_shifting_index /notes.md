@@ -24,7 +24,7 @@ Jeremy Shaw
 
 
 ## Type d'installation (contemplative, immersive, interactive)	
-Contemplative
+immersive
 
 ## Mise en espace
 Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, dotée de 7 écrans. Le sol est en tapis, on pouvait s'asseoir sur des bancs faitent en tapis. La salle est sombre avec la seule lumière provenant des écrans et des plafonniers installés pour cette exposition qui s'éclaireraient vers la fin.
