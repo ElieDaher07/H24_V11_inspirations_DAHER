@@ -53,6 +53,8 @@ Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, d
 </ul>
 
 <h2>Expérience vécue</h2>
+En rentrant dans l'immeuble, un guide nous présente l'artiste et résume l'oeuvre.
+<img width="600" src="media/guide.JPG">
 
 
 
