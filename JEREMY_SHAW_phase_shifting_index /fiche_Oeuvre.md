@@ -7,7 +7,8 @@
 
 Situé à 745 Rue Ottawa, Montréal, Quebec du 12 décembre 2023 jusqu'au 25 février 2024. **(Oeuvre itinérante)**
 <img width="350" src="media/entree_fonderie_Darling.png">
-<h5>_J'ai visité l'exposition le 31 Janvier 2024_</h5>
+
+<h5> _J'ai visité l'exposition le 31 Janvier 2024_ </h5>
 
 
 <h2> "Phase Shifting Index" </h1>
