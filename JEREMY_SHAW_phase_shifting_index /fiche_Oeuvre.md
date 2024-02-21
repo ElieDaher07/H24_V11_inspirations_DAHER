@@ -31,6 +31,7 @@ Créer au Centre Pompidou à Paris, France 2020
 
 
 <h2>Mise en espace</h2>
+<img width="600" src="media/plan_exposition.png">
 
 
 
