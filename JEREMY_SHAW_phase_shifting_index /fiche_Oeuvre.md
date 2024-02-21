@@ -11,10 +11,10 @@ Situé à 745 Rue Ottawa, Montréal, Quebec du 12 décembre 2023 jusqu'au 25 fé
 J'ai visité l'expostion le 31 Janvier 2024
 <br>
 
-# "Phase Shifting Index"
+<h1> "Phase Shifting Index" </h1>
 <img width="650" src="media/ensemble_oeuvre.png">
 
-## Jeremy Shaw
+<h2> Jeremy Shaw </h2>
 Créer au Centre Pompidou à Paris, France 2020
 
 <img width="350" src="media/jeremy_shaw.jpg">
