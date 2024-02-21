@@ -38,7 +38,7 @@ _J'ai visité l'exposition le 31 Janvier 2024_ </h5>
 Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, dotée de 7 écrans qui ont l'impression de flotter. Le sol est en tapis, on pouvait s'asseoir sur des bancs faitent en tapis. La salle est sombre avec la seule lumière provenant des écrans et des plafonniers installés pour cette exposition qui s'éclaireraient vers la fin.
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
-
+Installation vidéographique à sept canaux, couleur et noir et blanc, avec son multi-canaux et des lumières, d'une durée de 35 minutes et 17 secondes.
 
 
 
