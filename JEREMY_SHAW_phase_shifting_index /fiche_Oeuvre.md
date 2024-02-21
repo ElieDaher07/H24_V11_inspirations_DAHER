@@ -72,6 +72,9 @@ Finalement, tous les écrans se remplissent d'une sorte de galaxie pleine de cou
 
 <h2>Commentaire personnel</h2>
 
+Personnellement, je pense que l'œuvre était une expérience unique, étant donné que c'est la première fois que je vois une qui n'est pas interactive. Je regrette un peu le fait de ne pas pouvoir interagir avec les éléments, mais je peux affirmer avec assurance que Shaw a réussi au début en vous rendant confus et en vous demandant de quoi parle l'œuvre, puis en montrant le retournement de situation à la fin. 
+<img width="600" src="media/ecrans_phase_04.JPG">
+L'intensité avec la musique a été bien réalisée, et je me souviens avoir rangé mon téléphone juste pour l'écouter.
 
 
 
