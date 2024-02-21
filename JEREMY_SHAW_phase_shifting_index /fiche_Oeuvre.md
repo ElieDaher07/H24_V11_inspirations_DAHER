@@ -48,6 +48,7 @@ Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, d
 <li> Installation des lumières d'ambiance. </li>
 <img width="500" src="media/lumieres_plafond.png">
 <li> De plus, Shaw intègre des effets spéciaux et la manipulation d'images numériques. </li>
+<img width="500" src="media/ecrans_en_synchro.png">
 <li> Durée de 35 minutes et 17 secondes. </li>
 </ul>
 
