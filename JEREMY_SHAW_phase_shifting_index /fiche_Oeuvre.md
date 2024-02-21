@@ -24,5 +24,8 @@ Créer au Centre Pompidou à Paris, France 2020
 <h2>Description</h3>
 <h5> Source: https://fonderiedarling.org/Phase-Shifting-Index </h5>
 <img width="680" src="media/description.png">
+<img width="500" src="media/cartel.JPG">
+<img width="500" src="media/ecrans_plan_large.png">
+
 
 
