@@ -3,7 +3,7 @@
 
 <br>
 
-## : Fonderie Darling :
+## Fonderie Darling
 
 Situé à 745 Rue Ottawa, Montréal, Quebec du 12 décembre 2023 jusqu'au 25 février 2024. **(Oeuvre itinérante)**
 <img width="450" src="media/entree_fonderie_Darling.png">
