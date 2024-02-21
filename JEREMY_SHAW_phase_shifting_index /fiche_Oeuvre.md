@@ -67,8 +67,11 @@ Après avoir attendu quelques minutes, les écrans ont commencé à jouer de plu
 En intensifiant l'effet de chacun des sept écrans ainsi que la musique et les lumières d'ambiance, tous les écrans changent pour afficher un amas de personnes qui ont l'air d'être sous l'emprise de la drogue.
 <img width="600" src="media/ecran_phase_03.png">
 <br>
-Finalement, tous les écrans se remplissent d'une sorte de galaxie pleine de couleurs, puis l'œuvre recommence du début.
+Finalement, tous les écrans se remplissent d'une sorte de galaxie pleine de couleurs pour quelques minutes, puis l'œuvre recommence du début.
 <img width="600" src="media/ecrans_phase_04_synchro.JPG">
+
+<h2>Commentaire personnel</h2>
+
 
 
 
