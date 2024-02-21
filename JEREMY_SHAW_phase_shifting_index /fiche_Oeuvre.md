@@ -46,6 +46,7 @@ Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, d
 <li> Son multi-canaux pour accompagner les images et créer une ambiance immersive. </li>
 <img width="500" src="media/cables_exposition.png">
 <li> Installation des lumières d'ambiance. </li>
+<img width="500" src="media/lumieres_plafond.png">
 <li> De plus, Shaw intègre des effets spéciaux et la manipulation d'images numériques. </li>
 <li> Durée de 35 minutes et 17 secondes. </li>
 </ul>
