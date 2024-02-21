@@ -76,7 +76,7 @@ Personnellement, je pense que l'œuvre était une expérience unique, étant don
 <br>
 <img width="300" src="media/ecrans_phase_04.JPG">
 
-L'intensité avec la musique a été bien réalisée, et je me souviens avoir rangé mon téléphone juste pour l'écouter.
+L'intensité avec la musique a été bien réalisée, je me souviens avoir rangé mon téléphone juste pour écouter le reste.
 
 
 
