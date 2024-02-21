@@ -6,7 +6,7 @@
 ## : Fonderie Darling :
 
 745 Rue Ottawa, Montréal, Quebec
-<img width="500" src="media/entree_fonderie_Darling.png">
+<img width="450" src="media/entree_fonderie_Darling.png">
 
 
 
