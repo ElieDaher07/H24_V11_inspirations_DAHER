@@ -55,6 +55,12 @@ Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, d
 <h2>Expérience vécue</h2>
 En rentrant dans l'immeuble, un guide nous présente l'artiste et résume l'oeuvre.
 <img width="300" src="media/guide.JPG">
+<br>
+En rentrant dans la sale de l'oeuvre, on peut s'asseoir sur un estrade fait en tapis ou sur les bancs aussi faitent en tapis devant.
+Ensuite, les 7 écrans commencent tous à diffuser des vidéos de personnes effectuant des danses ou des étirements assez étranges.
+Chaque écran montrait quelque chose totalement différent des autres. 
+<img width="300" src="media/ecran_phase_01.JPG">
+
 
 
 
