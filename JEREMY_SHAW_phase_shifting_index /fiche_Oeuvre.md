@@ -52,6 +52,9 @@ Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, d
 <img width="500" src="media/ecrans_en_synchro.png">
 </ul>
 
+<h2>Expérience vécue</h2>
+
+
 
 
 
