@@ -9,7 +9,7 @@ Fonderie Darling
 Intérieure
 
 ## Date de votre visite
-24 Janvier 2024
+31 Janvier 2024
 
 ## Titre de l'oeuvre
 Phase Shifting Index
