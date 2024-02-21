@@ -32,7 +32,7 @@ Créer au Centre Pompidou à Paris, France 2020
 
 <h2>Mise en espace</h2>
 <img width="600" src="media/plan_exposition.png">
-Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, dotée de 7 écrans. Le sol est en tapis, on pouvait s'asseoir sur des bancs faitent en tapis. La salle est sombre avec la seule lumière provenant des écrans et des plafonniers installés pour cette exposition qui s'éclaireraient vers la fin.
+Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, dotée de 7 écrans qui ont l'impression de flotter. Le sol est en tapis, on pouvait s'asseoir sur des bancs faitent en tapis. La salle est sombre avec la seule lumière provenant des écrans et des plafonniers installés pour cette exposition qui s'éclaireraient vers la fin.
 
 
 
