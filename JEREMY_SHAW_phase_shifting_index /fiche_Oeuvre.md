@@ -22,6 +22,6 @@ Créer au Centre Pompidou à Paris, France 2020
 <br>
 
 <h3>Description</h3>
-<img width="600" src="media/description.JPG">
+<img width="600" src="media/description.png">
 
 
