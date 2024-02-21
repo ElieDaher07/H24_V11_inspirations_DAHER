@@ -44,6 +44,7 @@ Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, d
 <li> Installation vidéographique à sept canaux, un mixe d'écrans en couleur et aussi en noir et blanc. </li>
 <img width="500" src="media/installation_oeuvre.png">
 <li> Son multi-canaux pour accompagner les images et créer une ambiance immersive. </li>
+<img width="500" src="media/cables_exposition.png">
 <li> Installation des lumières d'ambiance. </li>
 <li> De plus, Shaw intègre des effets spéciaux et la manipulation d'images numériques. </li>
 <li> Durée de 35 minutes et 17 secondes. </li>
