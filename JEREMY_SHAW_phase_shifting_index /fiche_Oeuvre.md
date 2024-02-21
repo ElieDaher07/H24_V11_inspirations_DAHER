@@ -18,7 +18,7 @@ J'ai visité l'expostion le 31 Janvier 2024
 Créer au Centre Pompidou à Paris, France 2020
 
 <img width="350" src="media/jeremy_shaw.jpg">
-###### (Source de l'image: https://www.stilinberlin.de/blog/2010/11/interview-jeremy-shaw.html)
+<h6> (Source de l'image: https://www.stilinberlin.de/blog/2010/11/interview-jeremy-shaw.html) </h6>
 <br>
 
 
