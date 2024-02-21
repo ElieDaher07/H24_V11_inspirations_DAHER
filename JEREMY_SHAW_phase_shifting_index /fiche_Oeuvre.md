@@ -65,7 +65,7 @@ Après avoir attendu quelques minutes, les écrans ont commencé à jouer de plu
 <img width="600" src="media/ecrans_phase_02.png">
 <br>
 En intensifiant l'effet de chacun des sept écrans ainsi que la musique et les lumières d'ambiance, tous les écrans changent pour afficher un amas de personnes qui ont l'air d'être sous l'emprise de la drogue.
-<img width="600" src="media/ecrans_phase_03.png">
+<img width="600" src="media/ecran_phase_03.png">
 
 
 
