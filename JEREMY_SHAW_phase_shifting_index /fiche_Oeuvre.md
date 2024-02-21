@@ -21,4 +21,7 @@ Créer au Centre Pompidou à Paris, France 2020
 <h6> (Source de l'image: https://www.stilinberlin.de/blog/2010/11/interview-jeremy-shaw.html) </h6>
 <br>
 
+<h3>Description</h3>
+<img width="600" src="media/description.JPG>
+
 
