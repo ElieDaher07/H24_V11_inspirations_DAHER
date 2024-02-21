@@ -11,6 +11,8 @@ Situé à 745 Rue Ottawa, Montréal, Quebec du 12 décembre 2023 jusqu'au 25 fé
 J'ai visité l'expostion le 31 Janvier 2024
 <br>
 
+# Titre de l'oeuvre: "Phase Shifting Index"
+<img width="650" src="media/ensemble_oeuvre.png">
 
 
 
