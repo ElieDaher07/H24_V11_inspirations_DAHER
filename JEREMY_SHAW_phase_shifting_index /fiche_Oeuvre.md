@@ -64,6 +64,9 @@ Chaque écran montrait quelque chose totalement différent des autres.
 Après avoir attendu quelques minutes, les écrans ont commencé à jouer de plus en plus rapidement, et chaque écran faisait la même danse.
 <img width="600" src="media/ecrans_phase_02.png">
 <br>
+En intensifiant l'effet de chacun des sept écrans ainsi que la musique et les lumières d'ambiance, tous les écrans changent pour afficher un amas de personnes qui ont l'air d'être sous l'emprise de la drogue.
+<img width="600" src="media/ecrans_phase_04.JPG">
+
 
 
 
