@@ -39,6 +39,7 @@ Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, d
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
 "Phase Shifting Index" de Jeremy Shaw est une œuvre multimédia qui combine plusieurs composantes et techniques pour créer une expérience immersive et sensorielle:
+<br>
 <ul>
 <li> Installation vidéographique à sept canaux, un mixe d'écrans en couleur et aussi en noir et blanc. </li>
 <li> Son multi-canaux pour accompagner les images et créer une ambiance immersive. </li>
