@@ -25,9 +25,13 @@ Créer au Centre Pompidou à Paris, France 2020
 <h5> Source: https://fonderiedarling.org/Phase-Shifting-Index </h5>
 <img width="680" src="media/description.png">
 <img width="600" src="media/cartel.JPG">
+<br>
 
 <h2>Installation Immersive </h2>
 <img width="600" src="media/ecrans_avec_banc.JPG">
+<br>
+
+<h2>Mise en espace</h2>
 
 
 
