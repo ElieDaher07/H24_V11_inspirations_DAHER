@@ -1,1 +1,1 @@
-Ce dossient contient toutes les images prisent pour cette oeuvre.
+Ce dossier contient toutes les images prises pour cette oeuvre.
