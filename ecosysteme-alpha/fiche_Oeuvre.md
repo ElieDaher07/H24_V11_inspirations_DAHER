@@ -13,7 +13,7 @@ _J'ai visité l'exposition le 2 Mars 2024_ </h5>
 
 
 <h2> "Écosystème Alpha" </h1>
-<img width="650" src="media/ecosysteme-alpha_ensemble-oeuvre.png">
+<img width="610" src="media/ecosysteme-alpha_ensemble-oeuvre.png">
 
 <h2> Aude Guivarc'h </h2>
 
