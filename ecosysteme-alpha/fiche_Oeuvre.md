@@ -13,14 +13,14 @@ _J'ai visité l'exposition le 2 Mars 2024_ </h5>
 
 
 <h2> "Écosystème Alpha" </h1>
-<img width="650" src="media/ensemble_oeuvre.png">
+<img width="650" src="media/ecosysteme-alpha_ensemble-oeuvre.png">
 
 <h2> Aude Guivarc'h </h2>
 
 **Créée le samedi 16 octobre 2021 à la Galerie Never Apart à Montréal, Canada.**
 (Source: https://guivar.ch/Ecosystem-Alpha_v-2-0)
 
-<img width="350" src="media/ecosysteme-alpha_AudeGuivarc'h.jpg">
+<img width="350" src="media/ecosysteme-alpha_Aude-Guivarc'h.jpg">
 <h6> (Source de l'image: https://guivar.ch/Ecosystem-Alpha_v-2-0) </h6>
 
 
