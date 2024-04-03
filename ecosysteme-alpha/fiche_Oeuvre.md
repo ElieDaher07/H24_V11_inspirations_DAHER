@@ -8,7 +8,8 @@
 Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024. 
 <br>
 **(Oeuvre permanente intérieure, lieu fermé définitivement)**
-<img width="450" src="media/ecosysteme-alpha_entree.jpg">
+
+<img width="550" src="media/ecosysteme-alpha_entree.jpg">
 <h5>
   
 _J'ai visité l'exposition le 2 Mars 2024_ </h5>
