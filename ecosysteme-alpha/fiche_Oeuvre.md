@@ -5,7 +5,7 @@
 
 <h2> Age of Union </h2>
 
-Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024. **(Oeuvre itinérante, lieu fermé définitivement)**
+Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024. **(Oeuvre permanente intérieure, lieu fermé définitivement)**
 <img width="350" src="media/ecosysteme-alpha_entree.jpg">
 <h5>
   
