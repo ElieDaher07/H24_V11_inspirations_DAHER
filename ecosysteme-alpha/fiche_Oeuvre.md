@@ -5,15 +5,17 @@
 
 <h2> Age of Union </h2>
 
-Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024. **(Oeuvre permanente intérieure, lieu fermé définitivement)**
-<img width="350" src="media/ecosysteme-alpha_entree.jpg">
+Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024. 
+<br>
+**(Oeuvre permanente intérieure, lieu fermé définitivement)**
+<img width="450" src="media/ecosysteme-alpha_entree.jpg">
 <h5>
   
 _J'ai visité l'exposition le 2 Mars 2024_ </h5>
 
 
 <h2> "Écosystème Alpha" </h1>
-<img width="610" src="media/ecosysteme-alpha_ensemble-oeuvre.png">
+<img width="550" src="media/ecosysteme-alpha_ensemble-oeuvre.png">
 
 <h2> Aude Guivarc'h </h2>
 
