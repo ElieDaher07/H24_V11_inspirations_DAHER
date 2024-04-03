@@ -12,7 +12,7 @@ Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024.
 <img width="550" src="media/ecosysteme-alpha_entree.jpg">
 <h5>
   
-_J'ai visité l'exposition le 2 Mars 2024_ </h5>
+J'ai visité l'exposition le 2 Mars 2024 </h5>
 
 
 <h2> "Écosystème Alpha" </h1>
