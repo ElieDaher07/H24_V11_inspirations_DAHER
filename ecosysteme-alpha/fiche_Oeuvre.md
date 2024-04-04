@@ -63,41 +63,27 @@ L'œuvre est placée au deuxième étage dans un couloir.
 "Phase Shifting Index" de Jeremy Shaw est une œuvre multimédia qui combine plusieurs composantes et techniques pour créer une expérience immersive et sensorielle:
 <br>
 <ul>
-<li> Installation vidéographique à sept canaux, un mixe d'écrans en couleur et aussi en noir et blanc. </li>
-<img width="500" src="media/installation_oeuvre.png">
-<li> Son multi-canaux pour accompagner les images et créer une ambiance immersive. </li>
-<img width="500" src="media/cables_exposition.png">
-<li> Installation des lumières d'ambiance. </li>
-<img width="500" src="media/lumieres_plafond.png">
-<li> De plus, Shaw intègre des effets spéciaux et la manipulation d'images numériques. </li>
-<img width="500" src="media/ecrans_en_synchro.png">
+<li> Installation physique, oeuvre imprimé en 3D: </li>
+<img width="500" src="media/ecosysteme-alpha_composantes-installation.png">
+<li> Vidéoprojecteur pour projeter les images vidéo sur la surface de la sculpture: </li>
+<img width="500" src="media/ecosysteme-alpha_composantes-projecteur.png">
+  
+
+<li> Système interactif + Programmation interactive  </li>
+Utilisation du kinect.
+Nécessaire pour contrôler les réponses de l'installation aux interactions des spectateurs.
+<img width="500" src="media/ecosysteme-alpha_composantes-kinect.png">
+
+<li> Effets sonores interactifs. </li>
+VIDEO ICI
 </ul>
 
 <h2>Expérience vécue</h2>
-En rentrant dans l'immeuble, un guide nous présente l'artiste et résume l'oeuvre.
-<img width="300" src="media/guide.JPG">
-<br>
-En rentrant dans la sale de l'oeuvre, on peut s'asseoir sur un estrade fait en tapis ou sur les bancs aussi faitent en tapis devant.
-Ensuite, les 7 écrans commencent tous à diffuser des vidéos de personnes effectuant des danses ou des étirements assez étranges.
-Chaque écran montrait quelque chose totalement différent des autres. 
-<img width="600" src="media/ecran_phase_01.JPG">
-<br>
-Après avoir attendu quelques minutes, les écrans ont commencé à jouer de plus en plus rapidement, et chaque écran faisait la même danse.
-<img width="600" src="media/ecrans_phase_02.png">
-<br>
-En intensifiant l'effet de chacun des sept écrans ainsi que la musique et les lumières d'ambiance, tous les écrans changent pour afficher un amas de personnes qui ont l'air d'être sous l'emprise de la drogue.
-<img width="600" src="media/ecran_phase_03.png">
-<br>
-Finalement, tous les écrans se remplissent d'une sorte de galaxie pleine de couleurs pour quelques minutes, puis l'œuvre recommence du début.
-<img width="600" src="media/ecrans_phase_04_synchro.JPG">
+
+
 
 <h2>Commentaire personnel</h2>
 
-Personnellement, je pense que l'œuvre était une expérience unique, étant donné que c'est la première fois que je vois une qui n'est pas interactive. Je regrette un peu le fait de ne pas pouvoir interagir avec les éléments, mais je peux affirmer avec assurance que Shaw a réussi au début en vous rendant confus et en vous demandant de quoi parle l'œuvre, puis en montrant le retournement de situation à la fin. 
-<br>
-<img width="300" src="media/ecrans_phase_04.JPG">
-
-L'intensité avec la musique a été bien réalisée, je me souviens avoir rangé mon téléphone juste pour écouter le reste.
 
 
 
