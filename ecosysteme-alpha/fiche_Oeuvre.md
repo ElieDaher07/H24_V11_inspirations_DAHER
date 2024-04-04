@@ -53,7 +53,10 @@ Plus l’installation est perturbée, plus la régénération est longue. Le vis
 
 
 <h2>Mise en espace</h2>
+
 <img width="600" src="media/ecosysteme-alpha_schema.png">
+
+L'œuvre est placée au deuxième étage dans un couloir.
 
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
