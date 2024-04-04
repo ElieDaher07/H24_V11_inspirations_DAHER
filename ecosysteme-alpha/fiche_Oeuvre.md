@@ -51,8 +51,8 @@ Plus l’installation est perturbée, plus la régénération est longue. Le vis
 
 
 <h2>Mise en espace</h2>
-<img width="600" src="media/plan_exposition.png">
-Nous entrons dans une salle en forme de rectangle de taille moyenne à grande, dotée de 7 écrans qui ont l'impression de flotter. Le sol est en tapis, on pouvait s'asseoir sur des bancs faitent en tapis. La salle est sombre avec la seule lumière provenant des écrans et des plafonniers installés pour cette exposition qui s'éclaireraient vers la fin.
+<img width="600" src="media/ecosysteme-alpha_schema.png">
+
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
 "Phase Shifting Index" de Jeremy Shaw est une œuvre multimédia qui combine plusieurs composantes et techniques pour créer une expérience immersive et sensorielle:
