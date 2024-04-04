@@ -28,7 +28,7 @@ J'ai visité l'exposition le 2 Mars 2024 </h5>
 
 
 <h2>Description</h3>
-<h5> Source: https://fonderiedarling.org/Phase-Shifting-Index </h5>
+
 <img width="680" src="media/ecosysteme-alpha_description.png">
 <img width="600" src="media/ecosysteme-alpha_cartel.png">
 
