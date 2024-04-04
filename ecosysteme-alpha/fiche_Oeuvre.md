@@ -32,8 +32,7 @@ J'ai visité l'exposition le 2 Mars 2024 </h5>
 <img width="680" src="media/ecosysteme-alpha_description.png">
 <img width="600" src="media/ecosysteme-alpha_cartel.png">
 
-_L'écosystème Alpha est une sculpture vivante d'un terrain montagneux. Cette installation de mapping vidéo représente une coupe fictive d'un environnement naturel, modélisée par l'artiste. Un « échantillon de la planète Terre » en quelque sorte, formé de reliefs apparemment immobiles, indestructibles, formés au fil des éons. Grâce aux illusions vidéo projetées avec précision sur la surface montagneuse très détaillée, cette sculpture prend vie ; nous voyons les cycles naturels de l'eau, du vent, de l'érosion et des changements de saisons. Le spectateur est plongé dans un paysage pittoresque qui prend vie sous ses yeux. Cependant, lorsqu'on s'approche trop près, passe la main devant la projection ou pire, touche la surface, le paysage réagit en provoquant un segment de destruction par le feu, annihilant la beauté naturelle de l'environnement. Cette dernière est alors contrainte de recommencer son long et patient travail de création.
-Plus l’installation est perturbée, plus la régénération est longue. Le visiteur est responsable de la destruction de l’œuvre, et affecte ainsi l’expérience des autres visiteurs._
+_L'écosystème Alpha est une sculpture vivante d'un terrain montagneux. Cette installation de mapping vidéo représente une coupe fictive d'un environnement naturel, modélisée par l'artiste. Un « échantillon de la planète Terre » en quelque sorte, formé de reliefs apparemment immobiles, indestructibles, formés au fil des éons. Grâce aux illusions vidéo projetées avec précision sur la surface montagneuse très détaillée, cette sculpture prend vie ; nous voyons les cycles naturels de l'eau, du vent, de l'érosion et des changements de saisons. Le spectateur est plongé dans un paysage pittoresque qui prend vie sous ses yeux._
 **(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)**
 
 <img width="550" src="media/ecosysteme-alpha_vue-proche.png">
@@ -42,7 +41,13 @@ Durée de 3 minutes et 30 secondes.
 
 
 <h2>Installation Immersive </h2>
-<img width="600" src="media/ecrans_avec_banc.JPG">
+<img width="600" src="media/ecosysteme-alpha_interaction.gif">
+
+
+
+_Lorsqu'on s'approche trop près, passe la main devant la projection ou pire, touche la surface, le paysage réagit en provoquant un segment de destruction par le feu, annihilant la beauté naturelle de l'environnement. Cette dernière est alors contrainte de recommencer son long et patient travail de création.
+Plus l’installation est perturbée, plus la régénération est longue. Le visiteur est responsable de la destruction de l’œuvre, et affecte ainsi l’expérience des autres visiteurs._
+**(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)**
 
 
 <h2>Mise en espace</h2>
