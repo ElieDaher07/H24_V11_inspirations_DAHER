@@ -41,7 +41,7 @@ Durée de 3 minutes et 30 secondes.
 
 
 <h2>Installation Immersive </h2>
-[![Voir la video](<img width="550" src="media/ecosysteme-alpha_vignette-interaction.png">)](https://youtube.com/shorts/rRdTruvI3QE)
+[![Voir la video](media/ecosysteme-alpha_vignette-interaction.png)](https://youtube.com/shorts/rRdTruvI3QE)
 
 
 _Lorsqu'on s'approche trop près, passe la main devant la projection ou pire, touche la surface, le paysage réagit en provoquant un segment de destruction par le feu, annihilant la beauté naturelle de l'environnement. Cette dernière est alors contrainte de recommencer son long et patient travail de création.
