@@ -80,11 +80,9 @@ Nécessaire pour contrôler les réponses de l'installation aux interactions des
 VIDEO ICI
 </ul>
 
-<h2>Expérience vécue</h2>
+<h2>Expérience vécue + Commentaire personnel </h2>
 
 
-
-<h2>Commentaire personnel</h2>
 
 
 
