@@ -17,8 +17,5 @@ Malgré les conditions difficiles du désert, Séguela et son équipe ont réuss
 
 <h2>Conclusion</h2>
 
-En conclusion, la conférence de Jade Séguela a offert des perspectives précieuses sur le processus complexe de gestion et de transport des installations multimédias à l'échelle mondiale. 
-Les informations partagées étaient pertinentes pour ceux qui envisagent une carrière dans ce domaine. 
-
-La discussion franche des défis et des réalisations des projets du Studio Antimodular a été particulièrement instructive, nous donnant un aperçu des réalités des futurs projets dans ce domaine.
+En conclusion, la conférence de Jade Séguela a offert des perspectives précieuses sur le processus complexe de gestion et de transport des installations multimédias à l'échelle mondiale. Les informations partagées, notamment les défis et les réalisations du Studio Antimodular, se sont révélées pertinentes et instructives pour ceux envisageant une carrière dans ce domaine.
 
