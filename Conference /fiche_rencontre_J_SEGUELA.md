@@ -6,7 +6,7 @@ La vision de Lozano-Hemmer met l'accent sur le rôle transformateur du public da
 
 <h2> Translation Stream, Abu Dhabi </h2>
 
-Elle a partagé des informations sur les défis rencontrés lors des expositions, comme celle d'Abu Dhabi, où les facteurs environnementaux ont posé des obstacles significatifs.
+Elle a partagé des informations sur les défis rencontrés lors des expositions, notamment ceux à Abu Dhabi, où des facteurs environnementaux tels que la corrosion, la pluie, l'absence d'électricité, le sable et la faune ont posé des obstacles significatifs. Ces difficultés illustrent les défis communs liés au transport et à la présentation d'installations multimédias dans des conditions spécifiques, telles que celles du désert.
 
 <img width="450" src="media/translation_stream.png">
 
