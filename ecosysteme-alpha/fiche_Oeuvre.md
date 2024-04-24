@@ -51,7 +51,7 @@ L'œuvre "Ecosystème-Alpha" crée une expérience immersive et interactive qui 
 
 
 > Lorsqu'on s'approche trop près, passe la main devant la projection ou pire, touche la surface, le paysage réagit en provoquant un segment de destruction par le feu, annihilant la beauté naturelle de l'environnement. Cette dernière est alors contrainte de recommencer son long et patient travail de création.
-> Plus l’installation est perturbée, plus la régénération est longue. Le visiteur est responsable de la destruction de l’œuvre, et affecte ainsi l’expérience des autres visiteurs._
+> Plus l’installation est perturbée, plus la régénération est longue. Le visiteur est responsable de la destruction de l’œuvre, et affecte ainsi l’expérience des autres visiteurs.
 **(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)**
 
 
