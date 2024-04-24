@@ -7,7 +7,7 @@
 
 Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024. 
 <br>
-**(Oeuvre permanente intérieure, lieu fermé définitivement)**
+**(Oeuvre temporaire intérieure, lieu fermé définitivement)**
 
 <img width="550" src="media/ecosysteme-alpha_entree.jpg">
 <h5>
