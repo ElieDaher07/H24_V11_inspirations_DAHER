@@ -83,7 +83,7 @@ VIDEO ICI
 
 <h2>Expérience vécue + Commentaire personnel </h2>
 
-
+add a part to say that the experience is described as immersive but from my experience it wasnt because it was in a corridor between other stuff and wasn't really immersive but only interactive
 
 
 
