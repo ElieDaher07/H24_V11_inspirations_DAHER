@@ -36,7 +36,7 @@ _(Source de l'image: https://guivar.ch/Ecosystem-Alpha_v-2-0)_
 
 > L'écosystème Alpha est une sculpture vivante d'un terrain montagneux. Cette installation de mapping vidéo représente une coupe fictive d'un environnement naturel, modélisée par l'artiste. Un « échantillon de la planète Terre » en quelque sorte, formé de reliefs apparemment immobiles, indestructibles, formés au fil des éons. Grâce aux illusions vidéo projetées 
 > avec précision sur la surface montagneuse très détaillée, cette sculpture prend vie ; nous voyons les cycles naturels de l'eau, du vent, de l'érosion et des changements de saisons. Le spectateur est plongé dans un paysage pittoresque qui prend vie sous ses yeux._
- **_(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)_**
+ **(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)**
 
 <img width="550" src="media/ecosysteme-alpha_vue-proche.png">
 
