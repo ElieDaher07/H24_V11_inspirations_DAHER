@@ -35,7 +35,7 @@ _(Source de l'image: https://guivar.ch/Ecosystem-Alpha_v-2-0)_
 <img width="600" src="media/ecosysteme-alpha_cartel.png">
 
 > L'écosystème Alpha est une sculpture vivante d'un terrain montagneux. Cette installation de mapping vidéo représente une coupe fictive d'un environnement naturel, modélisée par l'artiste. Un « échantillon de la planète Terre » en quelque sorte, formé de reliefs apparemment immobiles, indestructibles, formés au fil des éons. Grâce aux illusions vidéo projetées 
-> avec précision sur la surface montagneuse très détaillée, cette sculpture prend vie ; nous voyons les cycles naturels de l'eau, du vent, de l'érosion et des changements de saisons. Le spectateur est plongé dans un paysage pittoresque qui prend vie sous ses yeux._
+> avec précision sur la surface montagneuse très détaillée, cette sculpture prend vie ; nous voyons les cycles naturels de l'eau, du vent, de l'érosion et des changements de saisons. Le spectateur est plongé dans un paysage pittoresque qui prend vie sous ses yeux.
  **(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)**
 
 <img width="550" src="media/ecosysteme-alpha_vue-proche.png">
@@ -50,9 +50,9 @@ L'œuvre "Ecosystème-Alpha" crée une expérience immersive et interactive qui 
 [![Voir la video](http://img.youtube.com/vi/rRdTruvI3QE/0.jpg)](http://youtube.com/watch?v=rRdTruvI3QE)
 
 
-_Lorsqu'on s'approche trop près, passe la main devant la projection ou pire, touche la surface, le paysage réagit en provoquant un segment de destruction par le feu, annihilant la beauté naturelle de l'environnement. Cette dernière est alors contrainte de recommencer son long et patient travail de création.
-Plus l’installation est perturbée, plus la régénération est longue. Le visiteur est responsable de la destruction de l’œuvre, et affecte ainsi l’expérience des autres visiteurs._
-**_(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)_**
+> Lorsqu'on s'approche trop près, passe la main devant la projection ou pire, touche la surface, le paysage réagit en provoquant un segment de destruction par le feu, annihilant la beauté naturelle de l'environnement. Cette dernière est alors contrainte de recommencer son long et patient travail de création.
+> Plus l’installation est perturbée, plus la régénération est longue. Le visiteur est responsable de la destruction de l’œuvre, et affecte ainsi l’expérience des autres visiteurs._
+**(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)**
 
 
 <h2>Mise en espace</h2>
