@@ -43,7 +43,7 @@ _(Source de l'image: https://guivar.ch/Ecosystem-Alpha_v-2-0)_
 Durée de 3 minutes et 30 secondes.
 
 
-<h2>Installation Immersive </h2>
+<h2>Installation intéractive </h2>
 
 L'œuvre "Ecosystème-Alpha" crée une expérience immersive et interactive qui invite les spectateurs à réfléchir sur leur relation avec l'environnement et l'impact de leurs actions sur la planète.
 
