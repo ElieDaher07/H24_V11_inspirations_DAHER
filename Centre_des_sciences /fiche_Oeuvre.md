@@ -1,5 +1,5 @@
 <h1> Conduite Intelligente par Studio Ubisoft </h1> 
-<img width="800" src="media/cartel_03.png">
+<img width="800" src="media/conduite_cartel_03.png">
 
 <br>
 
