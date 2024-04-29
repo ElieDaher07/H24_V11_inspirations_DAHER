@@ -1,5 +1,5 @@
 <h1> Conduite Intelligente par Studio Ubisoft </h1> 
-<img width="800" src="media/ecosysteme-alpha_affiche.jpg">
+<img width="800" src="media/cartel_03.png">
 
 <br>
 
