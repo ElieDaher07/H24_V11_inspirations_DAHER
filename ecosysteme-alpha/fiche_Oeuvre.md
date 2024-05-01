@@ -73,7 +73,7 @@ L'œuvre est placée au deuxième étage dans un couloir.
 <img width="200" src="media/ecosysteme-installation.png">
 <br>
 <li> Vidéoprojecteur pour projeter les images vidéo sur la surface de la sculpture: </li>
-<img width="200" src="media/ecosysteme-projecteur_02.png">
+<img width="200" src="media/ecosysteme-projecteur_01.png">
 <img width="200" src="media/ecosysteme-projecteur_02.png">  
 
 <li> Système interactif + Programmation interactive  </li>
