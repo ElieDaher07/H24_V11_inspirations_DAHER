@@ -46,8 +46,8 @@ Kigo est une exposition interactive car vous faites partie de l'œuvre, vous vou
 <img width="200" height="400" src="media/kigo_arriere-scene.png">
 <img width="500" src="media/kigo_zone.png">
 <img width="500" src="media/kigo_projecteur.png">
-<img width="500" src="media/kigo_score_01.png">
-<img width="500" src="media/kigo_score_02.png">
+<img width="200" height="400" src="media/kigo_score_01.png">
+<img width="200" height="400" src="media/kigo_score_02.png">
 
 
 
