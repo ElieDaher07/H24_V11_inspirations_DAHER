@@ -41,7 +41,7 @@ La durée peut dépendre. Si la voiture a un accident tôt, la simulation s'arr�
 
 <h2>Installation intéractive </h2>
 
-
+VIDEO HERE
 [![Voir la video](http://img.youtube.com/vi/rRdTruvI3QE/0.jpg)](http://youtube.com/watch?v=rRdTruvI3QE)
 
 
@@ -55,23 +55,22 @@ Rouge: Écran <br>
 
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
-"Phase Shifting Index" de Jeremy Shaw est une œuvre multimédia qui combine plusieurs composantes et techniques pour créer une expérience immersive et sensorielle:
-<br>
-<ul>
-<li> Installation physique, oeuvre imprimé en 3D: </li>
-<img width="500" src="media/ecosysteme-alpha_composantes-installation.png">
-<li> Vidéoprojecteur pour projeter les images vidéo sur la surface de la sculpture: </li>
-<img width="500" src="media/ecosysteme-alpha_composantes-projecteur.png">
-  
 
-<li> Système interactif + Programmation interactive  </li>
-Utilisation du kinect.
-Nécessaire pour contrôler les réponses de l'installation aux interactions des spectateurs.
-<img width="500" src="media/ecosysteme-alpha_composantes-kinect.png">
+Procédure:
 
-<li> Effets sonores interactifs. </li>
-VIDEO ICI
-</ul>
+1: <img width="500" src="media/conduite_procedure_01.png">
+2. <img width="500" src="media/conduite_procedure_02.png">
+3. <img width="500" src="media/conduite_procedure_03.png">  
+4. <img width="500" src="media/conduite_procedure_04.png">
+
+Composante technique: 
+
+<img width="500" src="media/conduite_composante_01.png">
+<img width="500" src="media/conduite_composante_02.png">
+<img width="500" src="media/conduite_composante_03.png">
+
+
+
 
 <h2>Expérience vécue + Commentaire personnel </h2>
 
