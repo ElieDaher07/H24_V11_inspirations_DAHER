@@ -79,7 +79,7 @@ L'œuvre est placée au deuxième étage dans un couloir.
 
 <h4> Utilisation du kinect. Nécessaire pour contrôler les réponses de l'installation aux interactions des spectateurs. </h4>
 
-<img width="200" src="media/ecosysteme-kinect.png">
+<img width="300" src="media/ecosysteme-kinect.png">
 
 <li> <h3> Effets sonores interactifs. </h3> </li>
 
