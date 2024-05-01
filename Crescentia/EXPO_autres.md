@@ -57,7 +57,7 @@ Jasmine Lapierre
 <h2>Cours indispensables</h2>
 Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Objets interactifs, Installation multimédia, Conception d’une expérience multimédia
 <h2>Expérience</h2>
-Même si cela a été classé en quatrième position, cela ne signifie pas que je n'apprécie pas tout le travail et la créativité investis dans ce projet. Malheureusement, je n'ai pas eu le temps de voir la configuration finale de tout, mais d'après ce que j'ai vu et avec quoi j'ai interagi, c'est un concept vraiment magnifique. <br>
+Même si cela a été classé en quatrième position, cela ne signifie pas que je n'apprécie pas tout le travail et la créativité investis dans ce projet. Malheureusement, je n'ai pas eu le temps de voir la configuration finale de tout, mais d'après ce que j'ai vu et avec quoi j'ai interagi, c'est un concept vraiment magnifique. <br><br>
 
 
 Je ne peux pas imaginer tout le travail que tous les étudiants ont mis dans ce projet. J'ai entendu des histoires sur les tracas qu'ils ont rencontrés car ils devaient constamment enlever tout l'équipement et le réinstaller un grand nombre de fois, car ils devaient laisser le petit studio disponible pour d'autres classes.
