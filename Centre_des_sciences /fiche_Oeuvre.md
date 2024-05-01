@@ -49,6 +49,9 @@ La durée peut dépendre. Si la voiture a un accident tôt, la simulation s'arr�
 <h2>Mise en espace</h2>
 
 <img width="600" src="media/conduite_vue_schema.png">
+Vert: porte
+Bleu: Table d'écran intéractif
+Rouge: Écran
 
 
 
