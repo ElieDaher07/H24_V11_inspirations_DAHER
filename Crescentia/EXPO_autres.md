@@ -1,4 +1,4 @@
-<h6>**Ordonner de 2 a 5 selon préférence personelle<h6>
+<h6> **Ordonner de 2 a 5 selon préférence personelle <h6>
 <h1> #2: Sonalux </h1> 
 <h2>Equipe</h2> Antoine Haddad <br>
 Camélie Laprise <br>
