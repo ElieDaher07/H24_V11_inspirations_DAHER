@@ -59,9 +59,11 @@ Rouge: Écran <br>
 ## Procédure:
 
 1. <img width="400" src="media/conduite_procedure_01.png">
+
    - Explication de l'image 1.
 
 2. <img width="400" src="media/conduite_procedure_02.png">
+
    - Explication de l'image 2.
 
 3. <img width="400" src="media/conduite_procedure_03.png">
