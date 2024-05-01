@@ -77,7 +77,7 @@ Felix Testa Radovanovic
 Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet:
 <h2>Expérience</h2>
 <img width="500" src="media/rhizomatique_interactive.png">
-<img width="500" src="media/rhizomatique_sons.png">
+<img width="500" src="media/rhizomatique_experience.png">
 <img width="500" src="media/rhizomatique_projecteur.png">
 
 <h6> *Toutes les images de schémas proviennent de https://tim-montmorency.com/2024/ </>
