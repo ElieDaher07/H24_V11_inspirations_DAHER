@@ -50,7 +50,6 @@ La durée peut dépendre. Si la voiture a un accident tôt, la simulation s'arr�
 
 <img width="600" src="media/conduite_vue_schema.png">
 
-L'œuvre est placée au deuxième étage dans un couloir.
 
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
