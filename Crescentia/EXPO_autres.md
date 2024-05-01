@@ -12,7 +12,7 @@ Vincent Desjardins
 <br>
  <img width="400" align="top left" align="middle" src="media/sonalux_installation_01.png">
  <img width="400" align="top left" align="middle" src="media/sonalux_installation_02.png">
- <img width="400" align="top left" align="middle" src="media/sonalux_installation_03.png">
+ <img width="400" height="500" align="top left" align="middle" src="media/sonalux_installation_03.png">
 <h2>Cours indispensables</h2>
 <h2>Expérience</h2>
 
