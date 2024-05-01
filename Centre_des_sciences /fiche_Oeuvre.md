@@ -56,20 +56,18 @@ Rouge: Écran <br>
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
 
-Procédure:
+## Procédure:
 
-1: <img width="500" src="media/conduite_procedure_01.png">
-2. <img width="500" src="media/conduite_procedure_02.png">
-3. <img width="500" src="media/conduite_procedure_03.png">  
-4. <img width="500" src="media/conduite_procedure_04.png">
+1. <img width="400" src="media/conduite_procedure_01.png">
+2. <img width="400" src="media/conduite_procedure_02.png">
+3. <img width="400" src="media/conduite_procedure_03.png">
+4. <img width="400" src="media/conduite_procedure_04.png">
 
-Composante technique: 
+## Composante technique: 
 
-<img width="500" src="media/conduite_composante_01.png">
-<img width="500" src="media/conduite_composante_02.png">
-<img width="500" src="media/conduite_composante_03.png">
-
-
+<img width="400" src="media/conduite_composante_01.png">
+<img width="400" src="media/conduite_composante_02.png">
+<img width="400" src="media/conduite_composante_03.png">
 
 
 <h2>Expérience vécue + Commentaire personnel </h2>
