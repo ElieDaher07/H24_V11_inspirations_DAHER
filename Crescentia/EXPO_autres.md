@@ -1,5 +1,6 @@
 <h6> **Ordonner de 2 a 5 selon préférence personelle <h6>
 <h1> #2: Sonalux </h1> 
+<img src="media/sonalux_banniere.png">
 <h2>Equipe</h2> Antoine Haddad <br>
 Camélie Laprise <br>
 Ghita Alaoui <br>
@@ -9,6 +10,7 @@ Vincent Desjardins
 <h2>Expérience</h2>
 
 <h1> #3: Canevas cosmique </h1>
+<img src="media/cosmique_banniere.png">
 <h2>Equipe</h2> Jacob Alarie-Brousseau <br>
 Étienne Charron <br>
 Jérémy Cholette <br>
@@ -19,6 +21,7 @@ Mikael Tourangeau
 <h2>Expérience</h2>
 
 <h1> #4: Effet Papillon </h1>
+<img src="media/papillon_banniere.png">
 <h2>Equipe</h2> Raphael Dumont <br>
 Alexis Bolduc <br>
 William Morel <br>
@@ -30,6 +33,7 @@ Jasmine Lapierre
 <h2>Expérience</h2>
 
 <h1> #5: Rhizomatique</h1>
+<img src="media/rhizomatique_banniere.png">
 <h2>Equipe</h2> Julyanne Desjardins <br>
 Maika Désu <br>
 Laurie Houde <br>
