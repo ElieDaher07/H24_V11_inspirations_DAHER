@@ -55,22 +55,17 @@ Rouge: Écran <br>
 
 <h2> Expérience </h2>
 
-1. - <img width="400" src="media/conduite_procedure_01.png">
-
+1. <img width="400" src="media/conduite_procedure_01.png"> 
    - D'abord, vous choisissez votre langue.
-<br><br>
-
-2. - <img width="400" src="media/conduite_procedure_02.png">
-
+   
+2. <img width="400" src="media/conduite_procedure_02.png"> 
    - Ensuite, vous avez quelques options sélectionnées à ajuster telles que le style de conduite, la détection des obstacles, la durée de l'entraînement, le freinage et la couleur de la voiture que vous choisissez.
-<br><br>
-3. - <img width="400" src="media/conduite_procedure_03.png">
-
+   
+3. <img width="400" src="media/conduite_procedure_03.png"> 
    - Ensuite, vous regardez l'écran pour voir le résultat de votre voiture qui se déplace autour.
-<br><br>
-4. - <img width="400" src="media/conduite_procedure_04.png">
-
-   -  Et enfin, vous obtenez l'écran de résultat final qui vous indique votre performance avec la voiture autonome, dans mon cas, je représente un danger pour le public.
+   
+4. <img width="400" src="media/conduite_procedure_04.png"> 
+   - Et enfin, vous obtenez l'écran de résultat final qui vous indique votre performance avec la voiture autonome. Dans mon cas, je représente un danger pour le public.
 <br><br>
 
 <h2> Composante technique </h2>
