@@ -9,8 +9,7 @@ Vincent Desjardins
 <h2>Installation + Schéma</h2>
 <img src="media/sonalux_schema.png">
 <br>
-<img width="500" src="media/sonalux_installation_01.png">
-<img width="500" src="media/sonalux_installation_02.png">
+<img width="500" src="media/sonalux_installation_01.png"> <img width="500" src="media/sonalux_installation_02.png">
 <img width="500" src="media/sonalux_installation_03.png">
 <h2>Cours indispensables</h2>
 <h2>Expérience</h2>
