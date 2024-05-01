@@ -116,6 +116,13 @@ Logiciel Unity
 
 Source de l'équipement, logiciels et l'image composante: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
+<h2>Composantes ou technologies que je ne connais pas</h2>
+
+<h4>Touch designer </h4>
+
+
+
+
 <h2>Commentaire personnel </h2>
 
 Kigo était mon préféré car j'adore l'idée d'une exposition qui est un jeu, où vous devez constamment interagir avec elle (vous déplacer, esquiver les obstacles et collecter des points tout en essayant de garder tous vos cœurs pour ne pas perdre). C'est un concept magnifique pour moi. Si j'avais une idée pour créer une exposition, je penserais également à en faire une sorte de jeu afin que les utilisateurs puissent s'amuser et l'expérimenter de première main.
