@@ -10,13 +10,13 @@ Vincent Desjardins
 
 <img width="500" align="top left" src="media/sonalux_schema.png"> 
 <br>
-<img width="400" align="middle" src="media/sonalux_installation_01.png">
+<img width="400" align="right" src="media/sonalux_installation_01.png">
 <img width="200" height="400" src="media/sonalux_installation_02.png"> 
 
 
  <img width="400" src="media/sonalux_installation_03.png">
 <h2>Cours indispensables</h2>
-Installation multimedia, objets interactifs, traitement audiovisuel 
+Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Installation multimedia, objets interactifs, traitement audiovisuel 
 <h2>Expérience</h2>
 
 J'ai trouvé l'expérience plutôt agréable. Tout d'abord, il faut se placer devant le poteau pour que les capteurs vous détectent et affichent le message "Chaque geste compte", signifiant que vos gestes ont de l'importance. J'ai pris plaisir à jouer avec les indices sonores et à voir les barres s'allumer, interagissant avec le volume de la musique, que je réglais plus haut ou plus bas.
