@@ -24,10 +24,17 @@ J'ai visité l'exposition le 10 Avril 2024 </h5>
 
 <img width="680" src="media/conduite_cartel_02.png">
 
+
+
 <h2>Crédits</h2>
 <img width="680" src="media/conduite_cartel_01.png">
 
-<img width="550" src="media/ecosysteme-alpha_vue-proche.png">
+Cette équipe avait idée de créer un algorithme simple qui peut maitriser des actions binaires dans un jeu appeler "The Crew". 
+
+> Ubisoft veut avant tout que son algorithme puisse répondre aux contraintes de l’industrie du jeu vidéo. Les chercheurs à l’origine de cet algorithme expliquent que :
+
+> Les applications de l’apprentissage par renforcement dans les jeux vidéo ont connu des avancées massives au cours des dernières années. Les différentes communautés de chercheurs ont formé des agents pour être compétitifs avec les meilleurs joueurs du monde dans des jeux complexes. Chez Ubisoft, nous faisons le constat que ces systèmes ont été très peu utilisés dans l’industrie du jeu vidéo, et nous pensons que nous devons les démocratiser.
+
 
 Durée de 3 minutes et 30 secondes.
 
