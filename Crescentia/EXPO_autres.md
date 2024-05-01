@@ -73,12 +73,15 @@ Felix Testa Radovanovic
 <h2>Installation + Schéma</h2>
 <img width="500" src="media/rhizomatique_schema.png">
 <img width="500" src="media/rhizomatique_installation.png">
+Kinect pour l'interaction
+<img width="500" src="media/rhizomatique_interactive.png">
+3 Projecteurs
+<img width="500" src="media/rhizomatique_projecteur.png">
 <h2>Cours indispensables</h2>
 Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet:
 <h2>Expérience</h2>
-<img width="500" src="media/rhizomatique_interactive.png">
 <img width="500" src="media/rhizomatique_experience.png">
-<img width="500" src="media/rhizomatique_projecteur.png">
+
 
 <h6> *Toutes les images de schémas proviennent de https://tim-montmorency.com/2024/ </>
 
