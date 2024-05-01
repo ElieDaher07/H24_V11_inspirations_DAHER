@@ -10,7 +10,7 @@ Vincent Desjardins
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
-        <img width="500"  src="media/sonalux_installation_01.png" style="float: left; clear: none; margin-right: 10px;">
+        <img width="500"  src="media/sonalux_installation_01.png">
     <div style="flex: 3; display: flex; flex-direction: column;">
         <img width="500" src="media/sonalux_schema.png" style="margin-bottom: 10px;">
         <img width="400" height="600" align="right" src="media/sonalux_installation_02.png" style="margin-bottom: 10px;">
