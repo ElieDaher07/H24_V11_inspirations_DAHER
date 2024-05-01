@@ -70,8 +70,8 @@ L'œuvre est placée au deuxième étage dans un couloir.
 <li> Installation physique, oeuvre imprimé en 3D: </li>
 
 <img width="200" src="media/ecosysteme-alpha_vignette-interaction.png">
-
 <img width="200" src="media/ecosysteme-installation.png">
+<br>
 <li> Vidéoprojecteur pour projeter les images vidéo sur la surface de la sculpture: </li>
 <img width="500" src="media/ecosysteme-alpha_composantes-projecteur.png">
   
