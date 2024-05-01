@@ -64,6 +64,15 @@ Logiciel Unity
 <img width="200" height="400" src="media/kigo_score_02.png">
 
 
+<h3>Autres logiciels requis</h3>
+
+- Kinect studio
+- Touch designer (Si Unity ne marche pas)
+- Blender ou Maya
+- OBS Studio
+- Reaper
+
+
 <br><br>
 
 <img src="media/kigo_composantes.png">
@@ -96,19 +105,7 @@ Tapis de protection
 1 Powercon
 1 Magic Arm
 
-Source de l'équipement et l'image: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
-
-
-<h3>Logiciels requis</h2>
-
-- Kinect studio
-- Unity
-- Touch designer (Si Unity ne marche pas)
-- Blender ou Maya
-- OBS Studio
-- Reaper
-
-Source: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
+Source de l'équipement, logiciels et l'image composante: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
 <h2>Commentaire personnel </h2>
 
