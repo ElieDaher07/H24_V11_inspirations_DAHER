@@ -8,14 +8,11 @@ Ghita Alaoui <br>
 Vincent Desjardins
 <h2>Installation + Schéma</h2>
 
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;">
-        <img width="500"  src="media/sonalux_installation_01.png">
-    <div style="flex: 3; display: flex; flex-direction: column;">
-        <img width="500" src="media/sonalux_schema.png" style="margin-bottom: 10px;">
-        <img width="400" height="600" align="right" src="media/sonalux_installation_02.png" style="margin-bottom: 10px;">
+
+        <img width="500" src="media/sonalux_installation_01.png">
+        <img width="500" src="media/sonalux_schema.png">
+        <img width="400" height="600" align="right" src="media/sonalux_installation_02.png">
         <img width="500" src="media/sonalux_installation_03.png">
-    </div></div></div>
 
 <h2>Cours indispensables</h2>
 Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Installation multimedia, objets interactifs, traitement audiovisuel 
