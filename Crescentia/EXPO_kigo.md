@@ -42,14 +42,24 @@ Kigo est une exposition interactive car vous faites partie de l'œuvre, vous vou
 
 <h1>Élements nécessaires à la mise en exposition + composantes et techniques</h1>
 
+- Kinect pour l'intéraction
 <img width="500" src="media/kigo_kinect.png">
-<img width="200" height="400" src="media/kigo_arriere-scene.png">
+
+- Zone dédiée
 <img width="500" src="media/kigo_zone.png">
+
+- Projecteur
 <img width="500" src="media/kigo_projecteur.png">
+
+<br>
+
+Logiciel Unity
+<img width="200" height="400" src="media/kigo_arriere-scene.png">
 <img width="200" height="400" src="media/kigo_score_01.png">
 <img width="200" height="400" src="media/kigo_score_02.png">
 
 
+<br>
 
 <img src="media/kigo_composantes.png">
 
