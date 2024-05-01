@@ -34,5 +34,5 @@
    - Observation de la projection et interaction avec l'œuvre
    - Remarque sur l'appellation "exposition immersive" malgré les bruits extérieurs et la disposition dans un couloir
 
-8. **C
-
+8. **Conclusion:**
+   - Appréciation de l'expérience interactive mais questionnement sur le terme "immersive" dans ce contexte
