@@ -52,6 +52,7 @@ Kigo est une exposition interactive car vous faites partie de l'œuvre, vous vou
 
 
 <img src="media/kigo_composantes.png">
+
 > Audio
 1 Console de sons
 1 Carte de sons
