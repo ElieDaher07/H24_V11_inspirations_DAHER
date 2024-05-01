@@ -8,7 +8,7 @@ Ghita Alaoui <br>
 Vincent Desjardins
 <h2>Installation + Schéma</h2>
 
-<img width="500" align="top left" src="media/sonalux_schema.png"> <img width="500" align="right" src="media/sonalux_installation_02.png">
+<img width="500" align="top left" src="media/sonalux_schema.png"> 
 <br>
  <img width="400" align="top left" align="middle" src="media/sonalux_installation_03.png">
 
