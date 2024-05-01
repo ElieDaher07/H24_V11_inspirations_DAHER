@@ -40,7 +40,7 @@ Kigo est une exposition interactive car vous faites partie de l'œuvre, vous vou
 <img src="media/kigo_schema.png">
 
 
-<h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
+<h1>Élements nécessaires à la mise en exposition + composantes et techniques</h1>
 
 <img width="500" src="media/kigo_kinect.png">
 <img width="500" src="media/kigo_arriere-scene.png">
@@ -84,7 +84,7 @@ Tapis de protection
 Source de l'équipement et l'image: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
 
-<h2>Logiciels requis</h2>
+<h3>Logiciels requis</h2>
 
 - Kinect studio
 - Unity
@@ -92,6 +92,8 @@ Source de l'équipement et l'image: https://github.com/espace-interactif/Kigo/tr
 - Blender ou Maya
 - OBS Studio
 - Reaper
+
+Source: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
 <h2>Commentaire personnel </h2>
 
