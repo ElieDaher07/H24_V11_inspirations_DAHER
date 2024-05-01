@@ -5,7 +5,7 @@
    - Je vais expliquer quel type d'installation que c'est en appuiyant avec une vidéo. De plus, je vais partager ses composantes techniques et l'implications derrière le projet. 
    - Enfin, je partagerai mes réflexions sur l'expérience vécue et les questions soulevées par cette rencontre entre l'art et la technologie.
 
-2. **Oeuvre et Artiste:**
+2. **Développement: Oeuvre et Artiste:**
    - Titre: "Écosystème Alpha" par Aude Guivarc'h
    - Date de création: 16 octobre 2021
    - Lieu initial: Galerie Never Apart à Montréal, Canada
