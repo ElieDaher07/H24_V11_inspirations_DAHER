@@ -50,7 +50,7 @@ Kigo est une exposition interactive car vous faites partie de l'œuvre, vous vou
 
 <img width="500" src="media/kigo_zone.png">
 
-- Projecteur
+- Projecteur et sons (L + R)
 
 <img width="500" src="media/kigo_projecteur.png">
 
