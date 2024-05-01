@@ -83,7 +83,11 @@ L'œuvre est placée au deuxième étage dans un couloir.
 
 <li> <h3> Effets sonores interactifs. </h3> </li>
 
+
+<img width="300" src="media/ecosysteme-son.png">
 [![Effet sonore](http://img.youtube.com/vi/qVv9IJpjCQE/0.jpg)](https://www.youtube.com/watch?v=qVv9IJpjCQE)
+
+
 
 </ul>
 
