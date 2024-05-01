@@ -22,7 +22,7 @@
 
 5. **Mise en Espace:**
    - Deuxième étage dans un couloir
-   - Disposition spatiale pour une interaction adéquate avec l'œuvre
+   - Disposition spatiale pour une interaction "adéquate" avec l'œuvre
 
 6. **Composantes et Techniques:**
    - Installation physique imprimée en 3D
