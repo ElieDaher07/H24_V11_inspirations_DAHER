@@ -81,8 +81,10 @@ L'œuvre est placée au deuxième étage dans un couloir.
 
 <img width="200" src="media/ecosysteme-kinect.png">
 
-<li> Effets sonores interactifs. </li>
-VIDEO ICI
+<li> <h3> Effets sonores interactifs. </h3> </li>
+
+[![Effet sonore](http://img.youtube.com/vi/rRdTruvI3QE/0.jpg)](http://youtube.com/watch?v=rRdTruvI3QE)
+
 </ul>
 
 <h2>Expérience vécue + Commentaire personnel </h2>
