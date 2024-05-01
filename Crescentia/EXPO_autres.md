@@ -38,7 +38,9 @@ Les principaux composants comprenaient des haut-parleurs, un commutateur, des c�
 <img width="500" src="media/cosmique_installation.png">
 
 <h2>Cours indispensables</h2>
+Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Interactivité ludique, Installation multimédia, Animation 2D
 <h2>Expérience</h2>
+J'ai trouvé l'expérience cosmique géniale dans l'ensemble. L'idée était cool, mais j'aurais aimé explorer davantage l'interaction entre les planètes et le soleil. Je me souviens qu'elle a planté lorsque nous avons tout mis au centre, alors que je m'attendais à voir un trou noir apparaître.
 
 <h1> #4: Effet Papillon </h1>
 <img width="400" src="media/papillon_banniere.jpg">
