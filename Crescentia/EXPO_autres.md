@@ -1,5 +1,5 @@
 <h1> #2: Sonalux </h1> 
-par Antoine Haddad <br>
+<h2>fait par</h2> Antoine Haddad <br>
 Camélie Laprise <br>
 Ghita Alaoui <br>
 Vincent Desjardins
