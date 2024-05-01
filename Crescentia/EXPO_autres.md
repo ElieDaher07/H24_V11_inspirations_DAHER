@@ -6,13 +6,14 @@ Source: https://tim-montmorency.com/2024/
 Camélie Laprise <br>
 Ghita Alaoui <br>
 Vincent Desjardins
-<h2>Installation + Schéma</h2>
-
-
-<img width="500" src="media/sonalux_installation_01.png">
-<img width="500" src="media/sonalux_schema.png">
+<h2>Installation Schéma</h2>
 <img width="400" height="600" align="right" src="media/sonalux_installation_02.png">
+<br>
 <img width="500" src="media/sonalux_installation_03.png">
+<img width="500" src="media/sonalux_installation_01.png">
+
+<h2>Schéma</h2>
+<img width="500" src="media/sonalux_schema.png">
 
 <h2>Cours indispensables</h2>
 Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Installation multimedia, objets interactifs, traitement audiovisuel 
