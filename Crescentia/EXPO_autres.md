@@ -21,7 +21,7 @@ Mikael Tourangeau
 <h2>Expérience</h2>
 
 <h1> #4: Effet Papillon </h1>
-<img src="media/papillon_banniere.jpg">
+<img width="500" src="media/papillon_banniere.jpg">
 <h2>Equipe</h2> Raphael Dumont <br>
 Alexis Bolduc <br>
 William Morel <br>
