@@ -11,13 +11,11 @@ Vincent Desjardins
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
         <img width="500" height="auto" src="media/sonalux_installation_02.png" style="float: left; clear: none; margin-right: 10px;">
-    </div>
     <div style="flex: 3; display: flex; flex-direction: column;">
         <img width="500" src="media/sonalux_schema.png" style="margin-bottom: 10px;">
         <img width="500"src="media/sonalux_installation_01.png" style="margin-bottom: 10px;">
         <img width="500" src="media/sonalux_installation_03.png">
-    </div>
-</div>
+
 
 <h2>Cours indispensables</h2>
 Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Installation multimedia, objets interactifs, traitement audiovisuel 
