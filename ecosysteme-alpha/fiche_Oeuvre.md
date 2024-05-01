@@ -63,10 +63,13 @@ L'œuvre est placée au deuxième étage dans un couloir.
 
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
-"Phase Shifting Index" de Jeremy Shaw est une œuvre multimédia qui combine plusieurs composantes et techniques pour créer une expérience immersive et sensorielle:
+
+"Écosystème Alpha" d'Aude Guivarc'h est une œuvre multimédia qui combine plusieurs composantes et techniques pour créer une expérience interactive:
 <br>
 <ul>
 <li> Installation physique, oeuvre imprimé en 3D: </li>
+
+<img width="600" src="media/ecosysteme-alpha_vignette-interaction.png">
 <img width="500" src="media/ecosysteme-alpha_composantes-installation.png">
 <li> Vidéoprojecteur pour projeter les images vidéo sur la surface de la sculpture: </li>
 <img width="500" src="media/ecosysteme-alpha_composantes-projecteur.png">
