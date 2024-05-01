@@ -11,12 +11,11 @@
 
 <h2>Équipe </h1>
 
-Érick Ouellette
-William Rathier Mailly
-Gabriel Clerval
-Nicolas St-Martin
+Érick Ouellette<br>
+William Rathier Mailly<br>
+Gabriel Clerval<br>
+Nicolas St-Martin<br>
 Antoine Dion
-
 
 
 <h1>Description</h1>
