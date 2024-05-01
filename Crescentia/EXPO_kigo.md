@@ -121,7 +121,7 @@ Source de l'équipement, logiciels et l'image composante: https://github.com/esp
 <h4>Touch designer est une application que je n'ai pas entendu parlé, je connais en général Unity, mais je voulais de savoir en plus ce que Touch designer est pour que sa soit une alternative pour Unity.  </h4>
 
 
-<img width="500" src="media/kigo_touchdesigner.png">
+<img width="500" src="media/kigo_touchdesigner.png"><br>
 (Source de l'image: https://fisheyeimmersive.com/article/tout-comprendre-a-touchdesigner-ce-logiciel-qui-permet-de-creer-en-temps-reel/)
 
 <br><br>
