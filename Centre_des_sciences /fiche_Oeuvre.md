@@ -35,6 +35,7 @@ Cette équipe avait idée de créer un algorithme simple qui peut maitriser des 
 
 > Les applications de l’apprentissage par renforcement dans les jeux vidéo ont connu des avancées massives au cours des dernières années. Les différentes communautés de chercheurs ont formé des agents pour être compétitifs avec les meilleurs joueurs du monde dans des jeux complexes. Chez Ubisoft, nous faisons le constat que ces systèmes ont été très peu utilisés dans l’industrie du jeu vidéo, et nous pensons que nous devons les démocratiser.
 
+(Source: https://siecledigital.fr/2019/12/30/ubisoft-appris-voiture-conduire-seule-jeu-de-course/)
 
 Durée de 3 minutes et 30 secondes.
 
