@@ -78,10 +78,10 @@ Kinect pour l'interaction
 3 Projecteurs
 <img width="500" src="media/rhizomatique_projecteur.png">
 <h2>Cours indispensables</h2>
-Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet:
+Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Installation multimédia, Traitement audiovisuel, Interactivité ludique
 <h2>Expérience</h2>
 <img width="500" src="media/rhizomatique_experience.png">
-
+Finalement, je pense que la raison pour laquelle cela a été classé en cinquième place est que je n'ai pas vu beaucoup d'activité dans le projet. Vous mettez simplement votre main sur l'un des trois endroits pour voir l'un des trois souvenirs s'afficher en fonction de l'endroit où vous mettez votre main (si vous placez votre main à gauche, l'écran de gauche s'allumera, etc.). Ce n'est pas que ce soit un mauvais projet, mais si je devais le comparer aux autres projets de Crescentia, je dirais que en termes de créativité et d'effort, celui-ci était le moins réussi.
 
 <h6> *Toutes les images de schémas proviennent de https://tim-montmorency.com/2024/ </>
 
