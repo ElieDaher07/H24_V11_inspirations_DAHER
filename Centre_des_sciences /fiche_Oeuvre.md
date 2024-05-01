@@ -71,24 +71,25 @@ Rouge: Écran <br>
    
    Et enfin, vous obtenez l'écran de résultat final qui vous indique votre performance avec la voiture autonome. Dans mon cas, je représente un danger pour le public.
 
-<br><br>
+<br>
 
 <h2> Composante technique </h2>
 
 <img width="400" src="media/conduite_composante_01.png">
 
    - Explication de la composante 1.
-<br><br>
+
 <img width="400" src="media/conduite_composante_02.png">
 
    - Explication de la composante 2.
-<br><br>
-<img width="400" src="media/conduite_composante_03.png">
-<br><br>
-   - Explication de la composante 3.
-<br><br>
-<h2>Expérience vécue + Commentaire personnel </h2>
 
+<img width="400" src="media/conduite_composante_03.png">
+
+   - Explication de la composante 3.
+
+
+<h2>Commentaire personnel </h2>
+J'ai trouvé ce petit projet d'Ubisoft très intrigant et une expérience amusante. Si l'endroit n'avait pas été si rempli de monde, je serais resté et aurais continué à essayer d'obtenir un meilleur résultat, car c'était assez hilarant de voir comment la voiture conduisait de manière loufoque. C'était amusant d'être celui qui doit "démarrer" la voiture avec les bons réglages pour obtenir un bon résultat. Malheureusement, je n'ai pas pu m'améliorer en tant que conducteur, alors je risque d'être considéré comme un danger pour le public, À moins que je ne revienne et essaie à nouveau.
 
 
 
