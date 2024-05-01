@@ -38,7 +38,7 @@ VIDEO HERE
 
 <h2>Mise en espace</h2>
 
-SCHEMA
+<img src="media/kigo_schema.png">
 
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
