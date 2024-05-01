@@ -64,6 +64,7 @@ Maika Désu <br>
 Laurie Houde <br>
 Felix Testa Radovanovic
 <h2>Installation + Schéma</h2>
+<img width="500" src="media/rhizomatique_schema.png">
 <h2>Cours indispensables</h2>
 <h2>Expérience</h2>
 
