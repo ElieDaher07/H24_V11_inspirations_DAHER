@@ -20,12 +20,12 @@ J'ai visité l'exposition le 10 Avril 2024 </h5>
 
 <img width="450" src="media/ecosysteme-alpha_Aude-Guivarc'h.jpg">
 
-<h2>Description</h3>
+<h2>Description</h2>
 
-<img width="680" src="media/conduite_cartel_01.png">
 <img width="680" src="media/conduite_cartel_02.png">
 
-
+<h2>Crédits</h2>
+<img width="680" src="media/conduite_cartel_01.png">
 
 <img width="550" src="media/ecosysteme-alpha_vue-proche.png">
 
