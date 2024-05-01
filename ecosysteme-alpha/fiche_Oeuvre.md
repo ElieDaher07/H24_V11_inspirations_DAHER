@@ -102,8 +102,12 @@ Video:
 [![experience](http://img.youtube.com/vi/JFc3gWLXH9M/0.jpg)](https://www.youtube.com/watch?v=JFc3gWLXH9M)
 
 
-add a part to say that the experience is described as immersive but from my experience it wasnt because it was in a corridor between other stuff and wasn't really immersive but only interactive
 
+
+Pour commencer l'expérience, vous approchez de l'exposition alors qu'elle est en cours et observez la terrasse changer d'un environnement à un autre. La première chose que j'ai faite a été de poser ma main sur le dessus du projecteur pour voir s'il y aurait des changements. J'ai alors appris qu'il se réinitialiserait si vous essayez de l'interrompre. Donc, après cela, j'ai laissé la projection recommencer. J'ai attendu et observé alors qu'elle passait d'une terrasse à une autre jusqu'à la fin, où j'ai essayé de poser à nouveau ma main pour voir comment elle réagirait. J'ai remarqué que peu importe le moment où vous choisissez d'interagir avec elle, elle exécutera la même boucle de destruction programmée et recommencera.
+
+<br>
+Et enfin, je pense que c'était une expérience correcte, rien de fou à mon avis, mais tout de même une bonne expérience. Je reste perplexe quant au fait qu'ils l'appellent une exposition immersive alors qu'elle était au milieu d'un couloir entre tout et que l'on continuait d'entendre des bruits extérieurs tels que d'autres personnes parlant en bas. Je pense que pour l'endroit où je suis allé, c'était certainement une exposition interactive, mais pas immersive.
 
 
 
