@@ -40,7 +40,7 @@ Kigo est une exposition interactive car vous faites partie de l'œuvre, vous vou
 <img src="media/kigo_schema.png">
 
 
-<h1>Élements nécessaires à la mise en exposition + composantes et techniques</h1>
+<h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
 
 - Kinect pour l'intéraction
 
