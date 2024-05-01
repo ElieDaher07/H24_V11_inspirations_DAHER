@@ -14,14 +14,9 @@ Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024.
   
 J'ai visité l'exposition le 10 Avril 2024 </h5>
 
+<h2> Studio Ubisoft </h2>
 
-<h2> "Écosystème Alpha" </h1>
-<img width="450" src="media/ecosysteme-alpha_vue-ensemble.png">
-
-<h2> Aude Guivarc'h </h2>
-
-**Crée le samedi 16 octobre 2021 à la Galerie Never Apart à Montréal, Canada.**
-_(Source: https://guivar.ch/Ecosystem-Alpha_v-2-0)_
+<img width="550" src="media/centre_credits.png">
 
 <img width="450" src="media/ecosysteme-alpha_Aude-Guivarc'h.jpg">
 
