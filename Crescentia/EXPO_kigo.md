@@ -31,7 +31,7 @@ La durée peut dépendre du joueur et le jeu se terminera une fois que toutes le
 TEXT
 
 VIDEO HERE
-[![Voir la video](http://img.youtube.com/vi/rRdTruvI3QE/0.jpg)](http://youtube.com/watch?v=rRdTruvI3QE)
+[![Voir la video](http://img.youtube.com/vi/cZYmqBEve1o/0.jpg)](https://www.youtube.com/watch?v=cZYmqBEve1o)
 
 
 
