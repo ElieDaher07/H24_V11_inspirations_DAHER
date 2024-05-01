@@ -86,12 +86,12 @@ Source de l'équipement et l'image: https://github.com/espace-interactif/Kigo/tr
 
 <h2>Logiciels requis</h2>
 
--Kinect studio
-Unity
-Touch designer (Si Unity ne marche pas)
-Blender ou Maya
-OBS Studio
-Reaper
+- Kinect studio
+- Unity
+- Touch designer (Si Unity ne marche pas)
+- Blender ou Maya
+- OBS Studio
+- Reaper
 
 <h2>Commentaire personnel </h2>
 
