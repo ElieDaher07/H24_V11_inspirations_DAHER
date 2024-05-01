@@ -1,7 +1,7 @@
 <h1> KIGO </h1> 
 
 <img src="media/kigo_banniere.png">
-
+Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
 <h2> Grand studio, Collège Montmorency </h2>
 
