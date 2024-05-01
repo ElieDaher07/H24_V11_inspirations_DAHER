@@ -1,6 +1,6 @@
 # Croquis oral pour la présentation:
 
-0. ** Introduction: **
+0. **Introduction:**
    - Au cours de cette présentation, nous explorerons les différentes facettes de cette œuvre, je vais tout d'abord parler un peu de l'oeuvre, de l'artiste et de l'emplacement où elle était située. Ensuite je vais aller plus en detail et le décrivant et je vais montrer son cartel. 
    - Je vais expliquer quel type d'installation que c'est en appuiyant avec une vidéo. De plus, je vais partager ses composantes techniques et l'implications derrière le projet. 
    - Enfin, je partagerai mes réflexions sur l'expérience vécue et les questions soulevées par cette rencontre entre l'art et la technologie.
