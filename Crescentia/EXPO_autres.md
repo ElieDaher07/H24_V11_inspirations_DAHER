@@ -16,7 +16,10 @@ Vincent Desjardins
 
  <img width="400" src="media/sonalux_installation_03.png">
 <h2>Cours indispensables</h2>
+Installation multimedia, objets interactifs, traitement audiovisuel 
 <h2>Expérience</h2>
+
+J'ai trouvé l'expérience plutôt agréable. Tout d'abord, il faut se placer devant le poteau pour que les capteurs vous détectent et affichent le message "Chaque geste compte", signifiant que vos gestes ont de l'importance. J'ai pris plaisir à jouer avec les indices sonores et à voir les barres s'allumer, interagissant avec le volume de la musique, que je réglais plus haut ou plus bas.
 
 <h1> #3: Canevas cosmique </h1>
 <img src="media/cosmique_banniere.png">
