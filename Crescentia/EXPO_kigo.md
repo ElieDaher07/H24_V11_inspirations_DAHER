@@ -42,6 +42,10 @@ Kigo est une exposition interactive car vous faites partie de l'œuvre, vous vou
 
 <h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
 
+
+Les éléments principalement présents étaient des haut-parleurs, une Kinect, des câbles, un ordinateur et des projecteurs.
+
+
 - Kinect pour l'intéraction
 
 <img width="500" src="media/kigo_kinect.png">
