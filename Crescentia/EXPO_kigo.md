@@ -5,7 +5,8 @@
 
 <h2> Grand studio, Collège Montmorency </h2>
 
-__**Oeuvre temporaire intérieure**__
+_**Oeuvre temporaire intérieure**_
+
 <br>
  <b> J'ai visité l'exposition le 13 Mars 2024 <b>
 
