@@ -118,7 +118,16 @@ Source de l'équipement, logiciels et l'image composante: https://github.com/esp
 
 <h2>Composantes ou technologies que je ne connais pas</h2>
 
-<h4>Touch designer </h4>
+<h4>Touch designer est une application que je n'ai pas entendu parlé, je connais en général Unity, mais je voulais de savoir en plus ce que Touch designer est pour que sa soit une alternative pour Unity.  </h4>
+
+
+
+C'est un logiciel super cool qui te permet de créer des trucs vraiment géniaux en temps réel. Tu peux faire des trucs comme des installations artistiques, des spectacles interactifs, des animations visuelles, et plein d'autres trucs créatifs.
+<br>
+Ce qui est cool avec TouchDesigner, c'est que tu construis tout visuellement en reliant des blocs ensemble. Ces blocs peuvent être des trucs comme des vidéos, des animations, des effets visuels, des données de capteurs, ou même des contrôles interactifs comme des boutons ou des mouvements de la main.
+<br>
+Et si tu veux aller plus loin, tu peux même programmer des trucs en Python pour rendre tes créations encore plus puissantes et personnalisées. C'est vraiment un outil versatile et fun pour les artistes et les créatifs qui veulent donner vie à leurs idées de manière vraiment impressionnante.
+<br>
 <img width="500" src="media/kigo_touchdesigner.png">
 
 
