@@ -73,13 +73,13 @@ L'œuvre est placée au deuxième étage dans un couloir.
 <img width="200" src="media/ecosysteme-installation.png">
 <br>
 <li> Vidéoprojecteur pour projeter les images vidéo sur la surface de la sculpture: </li>
-<img width="200" src="media/ecosysteme-projecteur_01.png">
-<img width="200" src="media/ecosysteme-projecteur_02.png" style="transform:rotate 90">  
+<img width="200" src="media/ecosysteme-projecteur_01.png"> 
 
 <li> Système interactif + Programmation interactive  </li>
-Utilisation du kinect.
-Nécessaire pour contrôler les réponses de l'installation aux interactions des spectateurs.
-<img width="500" src="media/ecosysteme-alpha_composantes-kinect.png">
+
+Utilisation du kinect. Nécessaire pour contrôler les réponses de l'installation aux interactions des spectateurs.
+
+<img width="200" src="media/ecosysteme-kinect.png">
 
 <li> Effets sonores interactifs. </li>
 VIDEO ICI
