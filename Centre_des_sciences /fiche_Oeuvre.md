@@ -37,24 +37,18 @@ Cette équipe avait idée de créer un algorithme simple qui peut maitriser des 
 
 (Source: https://siecledigital.fr/2019/12/30/ubisoft-appris-voiture-conduire-seule-jeu-de-course/)
 
-Durée de 3 minutes et 30 secondes.
-
+La durée peut dépendre. Si la voiture a un accident tôt, la simulation s'arrête, sinon elle continuera à conduire pendant une minute environ jusqu'à ce qu'un écran de fin apparaisse.
 
 <h2>Installation intéractive </h2>
 
-L'œuvre "Ecosystème-Alpha" crée une expérience immersive et interactive qui invite les spectateurs à réfléchir sur leur relation avec l'environnement et l'impact de leurs actions sur la planète.
 
 [![Voir la video](http://img.youtube.com/vi/rRdTruvI3QE/0.jpg)](http://youtube.com/watch?v=rRdTruvI3QE)
 
 
-> Lorsqu'on s'approche trop près, passe la main devant la projection ou pire, touche la surface, le paysage réagit en provoquant un segment de destruction par le feu, annihilant la beauté naturelle de l'environnement. Cette dernière est alors contrainte de recommencer son long et patient travail de création.
-> Plus l’installation est perturbée, plus la régénération est longue. Le visiteur est responsable de la destruction de l’œuvre, et affecte ainsi l’expérience des autres visiteurs.
-**(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)**
-
 
 <h2>Mise en espace</h2>
 
-<img width="600" src="media/ecosysteme-alpha_schema.png">
+<img width="600" src="media/conduite_vue_schema.png">
 
 L'œuvre est placée au deuxième étage dans un couloir.
 
