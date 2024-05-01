@@ -50,6 +50,38 @@ Kigo est une exposition interactive car vous faites partie de l'œuvre, vous vou
 <img width="500" src="media/kigo_score_02.png">
 
 
+
+<img src="media/kigo_composantes.png">
+>Audio
+1 Console de sons
+1 Carte de sons
+2 Haut-parleurs Genelec 8010APM
+4 Câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres)
+Vidéo
+1 Projecteur
+1 Kinect V2
+1 sytème d'acrochage pour le projecteur
+Électricité
+2 Cordon IEC (pour alimenter les haut-parleurs)
+2 Multiprise
+2 Extensions de fils électrique (Longueur minimale estimée entre 6-8 mètres)
+1 Câble d’alimentation pour ordinateur
+1 Câble d’alimentation pour console de son
+Réseau
+2 Fils Ethernet (longueur minimale estimée entre 4-8 mètres)
+1 HDMI Extender
+2 Câbles HDMI
+Câble displayPort
+Ordinateur
+1 Chariot Ordinateur
+Autres
+Tapis de protection
+3 Safety en métal
+1 Powercon
+1 Magic Arm
+
+Source de l'équipement et l'image: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
+
 <h2>Expérience vécue + Commentaire personnel </h2>
 
 
