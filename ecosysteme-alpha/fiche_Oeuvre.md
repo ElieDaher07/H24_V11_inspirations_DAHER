@@ -71,7 +71,7 @@ L'œuvre est placée au deuxième étage dans un couloir.
 
 <img width="200" src="media/ecosysteme-alpha_vignette-interaction.png">
 
-<img width="500" src="media/ecosysteme-alpha_composantes-installation.png">
+<img width="200" src="media/ecosysteme-installation.png">
 <li> Vidéoprojecteur pour projeter les images vidéo sur la surface de la sculpture: </li>
 <img width="500" src="media/ecosysteme-alpha_composantes-projecteur.png">
   
