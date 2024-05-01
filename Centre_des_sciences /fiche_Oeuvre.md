@@ -5,7 +5,7 @@
 
 <h2> Centre des Sciences </h2>
 
-Situé à 7049 Rue Saint-Urbain, Montréal jusqu'au 16 mars 2024. 
+Situé à 2 De la Commune St W, Montreal, Quebec H2Y 4B2. 
 <br>
 **(Oeuvre permanente intérieure)**
 
