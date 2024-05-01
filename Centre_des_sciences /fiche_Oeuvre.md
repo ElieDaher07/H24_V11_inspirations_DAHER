@@ -77,15 +77,15 @@ Rouge: Écran <br>
 
 <img width="400" src="media/conduite_composante_01.png">
 
-   - Explication de la composante 1.
+   - Tous les câbles et composants sont rangés à l'intérieur de la table.
 
 <img width="400" src="media/conduite_composante_02.png">
 
-   - Explication de la composante 2.
+   - Il y a un peu de lumière ambiante au plafond.
 
 <img width="400" src="media/conduite_composante_03.png">
 
-   - Explication de la composante 3.
+   - Il y a un petit écran interactif que vous utilisez pour entrer vos paramètres et également pour suivre le déroulement de la conduite, ou vous pouvez également regarder le grand écran devant vous pour une meilleure vue.
 
 
 <h2>Commentaire personnel </h2>
