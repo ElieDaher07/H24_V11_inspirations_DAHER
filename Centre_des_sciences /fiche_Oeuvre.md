@@ -55,8 +55,6 @@ Rouge: Écran <br>
 
 <h2> Expérience </h2>
 
-## Expérience
-
 1. <img width="400" src="media/conduite_procedure_01.png"> 
    
    D'abord, vous choisissez votre langue.
