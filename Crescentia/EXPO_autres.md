@@ -33,6 +33,7 @@ Jérémy Cholette <br>
 Quoc Huy Do <br>
 Mikael Tourangeau
 <h2>Installation + Schéma</h2>
+Les principaux composants comprenaient des haut-parleurs, un commutateur, des câbles, un ordinateur et des projecteurs.
 <img width="500" src="media/cosmique_schema.png">
 <img width="500" src="media/cosmique_installation.png">
 
