@@ -12,8 +12,8 @@ Vincent Desjardins
 <br>
 <img width="400" align="right" src="media/sonalux_installation_01.png">
 <img width="200" height="400" src="media/sonalux_installation_02.png"> 
- <img width="400" align="right" src="media/sonalux_installation_03.png">
-
+<img width="400" align="right" src="media/sonalux_installation_03.png">
+<br><br>
 
 <h2>Cours indispensables</h2>
 Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Installation multimedia, objets interactifs, traitement audiovisuel 
