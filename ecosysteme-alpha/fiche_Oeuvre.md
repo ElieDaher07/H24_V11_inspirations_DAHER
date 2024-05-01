@@ -83,7 +83,7 @@ L'œuvre est placée au deuxième étage dans un couloir.
 
 <li> <h3> Effets sonores interactifs. </h3> </li>
 
-[![Effet sonore](http://img.youtube.com/vi/rRdTruvI3QE/0.jpg)](http://youtube.com/watch?v=rRdTruvI3QE)
+[![Effet sonore](http://img.youtube.com/vi/qVv9IJpjCQE/0.jpg)](https://www.youtube.com/watch?v=qVv9IJpjCQE)
 
 </ul>
 
