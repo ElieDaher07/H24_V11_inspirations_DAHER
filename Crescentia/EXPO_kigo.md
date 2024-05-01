@@ -72,8 +72,7 @@ Logiciel Unity
 - OBS Studio
 - Reaper
 
-
-<br><br>
+<br>
 
 <img src="media/kigo_composantes.png">
 
