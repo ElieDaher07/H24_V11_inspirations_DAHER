@@ -7,7 +7,7 @@
 
 - **Oeuvre temporaire intérieure**
 <br>
-- <b> J'ai visité l'exposition le 13 Mars 2024 <b>
+ <b> J'ai visité l'exposition le 13 Mars 2024 <b>
 
 <h2>Équipe </h1>
 
