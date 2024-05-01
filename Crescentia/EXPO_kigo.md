@@ -1,7 +1,7 @@
 <h1> KIGO </h1> 
-image
+![banniere-kigo](https://github.com/ElieDaher07/H24_V11_inspirations_DAHER/assets/143806470/9588cf5b-fff5-49ee-a268-321b17bfbeb4)
 
-<br>![banniere-kigo](https://github.com/ElieDaher07/H24_V11_inspirations_DAHER/assets/143806470/9588cf5b-fff5-49ee-a268-321b17bfbeb4)
+<br>
 
 
 <h2> Grand studio, Collège Montmorency </h2>
