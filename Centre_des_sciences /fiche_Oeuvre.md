@@ -61,28 +61,34 @@ Rouge: Écran <br>
 1. <img width="400" src="media/conduite_procedure_01.png">
 
    - Explication de l'image 1.
+<br><br>
 
 2. <img width="400" src="media/conduite_procedure_02.png">
 
    - Explication de l'image 2.
-
+<br><br>
 3. <img width="400" src="media/conduite_procedure_03.png">
+
    - Explication de l'image 3.
-
+<br><br>
 4. <img width="400" src="media/conduite_procedure_04.png">
-   - Explication de l'image 4.
 
+   - Explication de l'image 4.
+<br><br>
 ## Composante technique: 
 
 <img width="400" src="media/conduite_composante_01.png">
+
    - Explication de la composante 1.
-
+<br><br>
 <img width="400" src="media/conduite_composante_02.png">
+
    - Explication de la composante 2.
-
+<br><br>
 <img width="400" src="media/conduite_composante_03.png">
+<br><br>
    - Explication de la composante 3.
-
+<br><br>
 <h2>Expérience vécue + Commentaire personnel </h2>
 
 
