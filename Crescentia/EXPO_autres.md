@@ -8,7 +8,7 @@ Ghita Alaoui <br>
 Vincent Desjardins
 <h2>Installation</h2>
 
-Les composants principalement présents comprenaient des haut-parleurs, des casques d'écoute, des câbles, un ordinateur et 3 projecteurs.
+Les composants principalement présents comprenaient des haut-parleurs, des casques d'écoute, des câbles, des sensors, un ordinateur et 3 projecteurs.
 
 <img width="300" height="auto" src="media/sonalux_installation_02.png">
 <br>
