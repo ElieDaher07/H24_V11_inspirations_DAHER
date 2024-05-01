@@ -67,6 +67,6 @@ Felix Testa Radovanovic
 <h2>Cours indispensables</h2>
 <h2>Expérience</h2>
 
-<h6> Toutes les images de schémas proviennent de https://tim-montmorency.com/2024/ </>
+<h6> *Toutes les images de schémas proviennent de https://tim-montmorency.com/2024/ </>
 
 
