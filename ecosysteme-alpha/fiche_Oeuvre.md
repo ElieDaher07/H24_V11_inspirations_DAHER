@@ -90,6 +90,7 @@ Son intégré à l'intérieur de la table.
 
 <br>
 Video:
+
 [![Effet sonore](http://img.youtube.com/vi/qVv9IJpjCQE/0.jpg)](https://www.youtube.com/watch?v=qVv9IJpjCQE)
 
 
