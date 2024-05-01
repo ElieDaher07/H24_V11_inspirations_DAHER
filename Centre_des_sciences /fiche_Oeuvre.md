@@ -41,8 +41,8 @@ La durée peut dépendre. Si la voiture a un accident tôt, la simulation s'arr�
 
 <h2>Installation intéractive </h2>
 
-VIDEO HERE
-[![Voir la video](http://img.youtube.com/vi/rRdTruvI3QE/0.jpg)](http://youtube.com/watch?v=rRdTruvI3QE)
+
+[![Voir la video](http://img.youtube.com/vi/vUS5yePZRDM/0.jpg)](https://www.youtube.com/watch?v=vUS5yePZRDM)
 
 
 
