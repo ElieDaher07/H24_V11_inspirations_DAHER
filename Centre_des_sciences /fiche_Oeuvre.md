@@ -20,18 +20,12 @@ J'ai visité l'exposition le 10 Avril 2024 </h5>
 
 <img width="450" src="media/ecosysteme-alpha_Aude-Guivarc'h.jpg">
 
-_(Source de l'image: https://guivar.ch/Ecosystem-Alpha_v-2-0)_ 
-
-
-
 <h2>Description</h3>
 
-<img width="680" src="media/ecosysteme-alpha_description.png">
-<img width="600" src="media/ecosysteme-alpha_cartel.png">
+<img width="680" src="media/conduite_cartel_01.png">
+<img width="680" src="media/conduite_cartel_02.png">
 
-> L'écosystème Alpha est une sculpture vivante d'un terrain montagneux. Cette installation de mapping vidéo représente une coupe fictive d'un environnement naturel, modélisée par l'artiste. Un « échantillon de la planète Terre » en quelque sorte, formé de reliefs apparemment immobiles, indestructibles, formés au fil des éons. Grâce aux illusions vidéo projetées 
-> avec précision sur la surface montagneuse très détaillée, cette sculpture prend vie ; nous voyons les cycles naturels de l'eau, du vent, de l'érosion et des changements de saisons. Le spectateur est plongé dans un paysage pittoresque qui prend vie sous ses yeux.
- **(source: https://guivar.ch/Ecosystem-Alpha_v-2-0)**
+
 
 <img width="550" src="media/ecosysteme-alpha_vue-proche.png">
 
