@@ -6,7 +6,10 @@ Source: https://tim-montmorency.com/2024/
 Camélie Laprise <br>
 Ghita Alaoui <br>
 Vincent Desjardins
-<h2>Installation Schéma</h2>
+<h2>Installation</h2>
+
+Les composants principalement présents comprenaient des haut-parleurs, des casques d'écoute, des câbles, un ordinateur et 3 projecteurs.
+
 <img width="300" height="auto" src="media/sonalux_installation_02.png">
 <br>
 <img width="500" src="media/sonalux_installation_03.png">
