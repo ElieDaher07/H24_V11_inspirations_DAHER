@@ -1,6 +1,6 @@
 <h1> KIGO </h1> 
-![banniere-kigo](https://github.com/ElieDaher07/H24_V11_inspirations_DAHER/assets/143806470/51c8643d-b171-4125-8549-1d7b71b3e448)
 
+![banniere-kigo](https://github.com/ElieDaher07/H24_V11_inspirations_DAHER/assets/143806470/51c8643d-b171-4125-8549-1d7b71b3e448)
 
 <br>
 
