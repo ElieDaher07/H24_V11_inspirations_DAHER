@@ -8,10 +8,11 @@ Ghita Alaoui <br>
 Vincent Desjardins
 <h2>Installation + Schéma</h2>
 
-<img width="500" style="float: left; margin-right: 10;" src="media/sonalux_schema.png">
-<img width="500" style="float: left; clear: both; margin-right: 10;" src="media/sonalux_installation_01.png">
-<img width="400" height="850" style="float: right; margin-left: 10;" src="media/sonalux_installation_02.png">
-<img width="500" style="float: left; clear: both; margin-right: 10;" src="media/sonalux_installation_03.png">
+<img width="500" style="float: left; clear: none; margin-right: 10px;" src="media/sonalux_schema.png">
+<img width="500" style="float: left; clear: none; margin-right: 10px;" src="media/sonalux_installation_01.png">
+<img width="400" height="850" style="float: right; clear: none; margin-left: 10px;" src="media/sonalux_installation_02.png">
+<img width="500" style="float: left; clear: none; margin-right: 10px;" src="media/sonalux_installation_03.png">
+
 
 <h2>Cours indispensables</h2>
 <h2>Expérience</h2>
