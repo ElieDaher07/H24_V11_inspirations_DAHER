@@ -53,29 +53,27 @@ Vert: porte <br>
 Bleu: Table d'écran intéractif <br>
 Rouge: Écran <br>
 
-
-<h2>Élements nécessaires à la mise en exposition + composantes et techniques</h2>
-
-## Procédure:
+<h2> Expérience </h2>
 
 1. <img width="400" src="media/conduite_procedure_01.png">
 
-   - Explication de l'image 1.
+   - D'abord, vous choisissez votre langue.
 <br><br>
 
 2. <img width="400" src="media/conduite_procedure_02.png">
 
-   - Explication de l'image 2.
+   - Ensuite, vous avez quelques options sélectionnées à ajuster telles que le style de conduite, la détection des obstacles, la durée de l'entraînement, le freinage et la couleur de la voiture que vous choisissez.
 <br><br>
 3. <img width="400" src="media/conduite_procedure_03.png">
 
-   - Explication de l'image 3.
+   - Ensuite, vous regardez l'écran pour voir le résultat de votre voiture qui se déplace autour.
 <br><br>
 4. <img width="400" src="media/conduite_procedure_04.png">
 
-   - Explication de l'image 4.
+   -  Et enfin, vous obtenez l'écran de résultat final qui vous indique votre performance avec la voiture autonome, dans mon cas, je représente un danger pour le public.
 <br><br>
-## Composante technique: 
+
+<h2> Composante technique </h2>
 
 <img width="400" src="media/conduite_composante_01.png">
 
