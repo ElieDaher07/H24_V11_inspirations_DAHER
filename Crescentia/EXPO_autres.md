@@ -11,7 +11,7 @@ Vincent Desjardins
 <img width="500" align="left" src="media/sonalux_schema.png"> 
 <br>
 <img width="400" align="right" src="media/sonalux_installation_01.png">
-<img width="200" align="left height="400" src="media/sonalux_installation_02.png"> 
+<img width="200" align="left" height="400" src="media/sonalux_installation_02.png"> 
 <img width="400" align="right" src="media/sonalux_installation_03.png">
 <br><br>
 
