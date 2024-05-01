@@ -60,7 +60,7 @@ Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet: Obj
 Même si cela a été classé en quatrième position, cela ne signifie pas que je n'apprécie pas tout le travail et la créativité investis dans ce projet. Malheureusement, je n'ai pas eu le temps de voir la configuration finale de tout, mais d'après ce que j'ai vu et avec quoi j'ai interagi, c'est un concept vraiment magnifique. <br><br>
 
 
-Je ne peux pas imaginer tout le travail que tous les étudiants ont mis dans ce projet. J'ai entendu des histoires sur les tracas qu'ils ont rencontrés car ils devaient constamment enlever tout l'équipement et le réinstaller un grand nombre de fois, car ils devaient laisser le petit studio disponible pour d'autres classes.
+Je ne peux pas imaginer tout le travail que tous les étudiants ont mis dans ce projet. J'ai entendu des histoires sur les tracas qu'ils ont rencontrés car ils devaient constamment enlever tout l'équipement et le réinstaller un grand nombre de fois, devant laisser le petit studio disponible pour d'autres classes. En regardant le produit final sur leur chaîne YouTube, je le trouve extraordinaire.
 
 
 <h1> #5: Rhizomatique</h1>
@@ -72,9 +72,13 @@ Laurie Houde <br>
 Felix Testa Radovanovic
 <h2>Installation + Schéma</h2>
 <img width="500" src="media/rhizomatique_schema.png">
+<img width="500" src="media/rhizomatique_installation.png">
 <h2>Cours indispensables</h2>
 Selon moi je pense que ces 3 cours sont importants pour réaliser ce projet:
 <h2>Expérience</h2>
+<img width="500" src="media/rhizomatique_interactive.png">
+<img width="500" src="media/rhizomatique_sons.png">
+<img width="500" src="media/rhizomatique_projecteur.png">
 
 <h6> *Toutes les images de schémas proviennent de https://tim-montmorency.com/2024/ </>
 
