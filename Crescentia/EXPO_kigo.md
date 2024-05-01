@@ -1,6 +1,6 @@
 <h1> KIGO </h1> 
 
-![banniere-kigo]
+<img src="media/kigo_banniere.jpg">
 
 
 <h2> Grand studio, Collège Montmorency </h2>
