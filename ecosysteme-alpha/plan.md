@@ -36,6 +36,7 @@
    - Effets sonores intégrés pour une expérience immersive
 
 8. **Expérience Vécue:**
+   - Montre la vidéo
    - Observation de la projection et interaction avec l'œuvre
    - Remarque sur l'appellation "exposition immersive" malgré les bruits extérieurs et la disposition dans un couloir
 
