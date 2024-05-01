@@ -119,6 +119,7 @@ Source de l'équipement, logiciels et l'image composante: https://github.com/esp
 <h2>Composantes ou technologies que je ne connais pas</h2>
 
 <h4>Touch designer </h4>
+<img width="500" src="media/kigo_touchdesigner.png">
 
 
 
