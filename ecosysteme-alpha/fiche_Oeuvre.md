@@ -77,7 +77,7 @@ L'œuvre est placée au deuxième étage dans un couloir.
 
 <li> Système interactif + Programmation interactive  </li>
 
-Utilisation du kinect. Nécessaire pour contrôler les réponses de l'installation aux interactions des spectateurs.
+<h4> Utilisation du kinect. Nécessaire pour contrôler les réponses de l'installation aux interactions des spectateurs. </h4>
 
 <img width="200" src="media/ecosysteme-kinect.png">
 
